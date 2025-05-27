@@ -5,11 +5,11 @@
   <head>
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Class FadeOutBehavior | Floating Text API </title>
+      <title>Class FadeInOutBehavior | Floating Text API </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Class FadeOutBehavior | Floating Text API ">
+      <meta name="title" content="Class FadeInOutBehavior | Floating Text API ">
     
-    <meta name="description" content="This behavior will fade out the text over the specified duration.">
+    <meta name="description" content="This behavior will fade in and fade out at the specified speed (seconds for full cycle) over time.">
       <link rel="shortcut icon" href="../favicon.ico">
       <link rel="stylesheet" href="../styles/docfx.vendor.min.css">
       <link rel="stylesheet" href="../styles/docfx.css">
@@ -76,19 +76,19 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior">
+            <article class="content wrap" id="_content" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior">
 
 
 
-  <h1 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior" class="text-break">Class FadeOutBehavior</h1>
-  <div class="markdown level0 summary"><p>This behavior will fade out the text over the specified duration.</p>
+  <h1 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior" class="text-break">Class FadeInOutBehavior</h1>
+  <div class="markdown level0 summary"><p>This behavior will fade in and fade out at the specified speed (seconds for full cycle) over time.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
     <div class="level1"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html">IFloatingBehavior</a></div>
-    <div class="level2"><span class="xref">FadeOutBehavior</span></div>
+    <div class="level2"><span class="xref">FadeInOutBehavior</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -134,22 +134,22 @@
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="BlackMassSoftware.html">BlackMassSoftware</a>.<a class="xref" href="BlackMassSoftware.FloatingTextEngine.html">FloatingTextEngine</a>.<a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.html">Behaviors</a></h6>
   <h6><strong>Assembly</strong>: Assembly-CSharp.dll</h6>
-  <h5 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior_syntax">Syntax</h5>
+  <h5 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class FadeOutBehavior : IFloatingBehavior</code></pre>
+    <pre><code class="lang-csharp hljs">public class FadeInOutBehavior : IFloatingBehavior</code></pre>
   </div>
   <h3 id="constructors">Constructors
 </h3>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior__ctor_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.#ctor*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior__ctor_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.#ctor(System.Single)">FadeOutBehavior(float)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.html">FadeOutBehavior</a> class.</p>
+  <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior__ctor_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.#ctor*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior__ctor_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.#ctor(System.Single,System.Single)">FadeInOutBehavior(float, float)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html">FadeInOutBehavior</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FadeOutBehavior(float duration)</code></pre>
+    <pre><code class="lang-csharp hljs">public FadeInOutBehavior(float fadeInOutSpeedSeconds, float duration)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -163,8 +163,14 @@
     <tbody>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">fadeInOutSpeedSeconds</span></td>
+        <td><p>The speed at which the text fades in/out (in seconds, 1.0f = 1 second).  This speed is the total time of a full cycle of fade in/fade out.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td><p>The duration.</p>
+        <td><p>The total time the behavior lasts for.</p>
 </td>
       </tr>
     </tbody>
@@ -173,9 +179,9 @@
 </h3>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior_InitializeBehavior_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.InitializeBehavior*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior_InitializeBehavior_UnityEngine_GameObject_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.InitializeBehavior(UnityEngine.GameObject)">InitializeBehavior(GameObject)</h4>
-  <div class="markdown level1 summary"><p>Initializes the behavior.</p>
+  <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_InitializeBehavior_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_InitializeBehavior_UnityEngine_GameObject_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior(UnityEngine.GameObject)">InitializeBehavior(GameObject)</h4>
+  <div class="markdown level1 summary"><p>Initializes the behavior</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
@@ -204,9 +210,9 @@
   <div><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_InitializeBehavior_UnityEngine_GameObject_">IFloatingBehavior.InitializeBehavior(GameObject)</a></div>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior_UpdateBehavior_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.UpdateBehavior*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeOutBehavior_UpdateBehavior_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.UpdateBehavior(System.Single)">UpdateBehavior(float)</h4>
-  <div class="markdown level1 summary"><p>Updates the behavior.</p>
+  <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_UpdateBehavior_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_UpdateBehavior_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior(System.Single)">UpdateBehavior(float)</h4>
+  <div class="markdown level1 summary"><p>Updates the behavior</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
@@ -226,13 +232,27 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">dt</span></td>
-        <td><p>The dt.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
   <h5 class="overrides">Overrides</h5>
   <div><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_UpdateBehavior_System_Single_">IFloatingBehavior.UpdateBehavior(float)</a></div>
+  <h5 class="exceptions">Exceptions</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Condition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.notimplementedexception">NotImplementedException</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="seealso">See Also</h3>
   <div class="seealso">
       <div><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html">IFloatingBehavior</a></div>

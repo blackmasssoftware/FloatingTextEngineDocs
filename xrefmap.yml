@@ -1,1245 +1,6 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: BlackMassSoftware.FloatingText.Behaviors
-  name: BlackMassSoftware.FloatingText.Behaviors
-  href: api/BlackMassSoftware.FloatingText.Behaviors.html
-  commentId: N:BlackMassSoftware.FloatingText.Behaviors
-  fullName: BlackMassSoftware.FloatingText.Behaviors
-  nameWithType: BlackMassSoftware.FloatingText.Behaviors
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior
-  name: ColorGradientBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior
-  nameWithType: ColorGradientBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.#ctor(UnityEngine.Color,UnityEngine.Color,System.Single)
-  name: ColorGradientBehavior(Color, Color, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ColorGradientBehavior__ctor_UnityEngine_Color_UnityEngine_Color_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.#ctor(UnityEngine.Color,UnityEngine.Color,System.Single)
-  name.vb: New(Color, Color, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.ColorGradientBehavior(UnityEngine.Color, UnityEngine.Color, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.New(UnityEngine.Color, UnityEngine.Color, Single)
-  nameWithType: ColorGradientBehavior.ColorGradientBehavior(Color, Color, float)
-  nameWithType.vb: ColorGradientBehavior.New(Color, Color, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.#ctor*
-  name: ColorGradientBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ColorGradientBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.ColorGradientBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.New
-  nameWithType: ColorGradientBehavior.ColorGradientBehavior
-  nameWithType.vb: ColorGradientBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ColorGradientBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: ColorGradientBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ColorGradientBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.InitializeBehavior
-  nameWithType: ColorGradientBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ColorGradientBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior(Single)
-  nameWithType: ColorGradientBehavior.UpdateBehavior(float)
-  nameWithType.vb: ColorGradientBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ColorGradientBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.UpdateBehavior
-  nameWithType: ColorGradientBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine
-  name: BlackMassSoftware.FloatingText.Behaviors.Engine
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.html
-  commentId: N:BlackMassSoftware.FloatingText.Behaviors.Engine
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine
-  nameWithType: BlackMassSoftware.FloatingText.Behaviors.Engine
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine
-  name: FloatingBehaviorEngine
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine
-  nameWithType: FloatingBehaviorEngine
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.#ctor
-  name: FloatingBehaviorEngine()
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingText_Behaviors_Engine_FloatingBehaviorEngine__ctor
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.#ctor
-  name.vb: New()
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.FloatingBehaviorEngine()
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.New()
-  nameWithType: FloatingBehaviorEngine.FloatingBehaviorEngine()
-  nameWithType.vb: FloatingBehaviorEngine.New()
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.#ctor*
-  name: FloatingBehaviorEngine
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingText_Behaviors_Engine_FloatingBehaviorEngine__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.FloatingBehaviorEngine
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.New
-  nameWithType: FloatingBehaviorEngine.FloatingBehaviorEngine
-  nameWithType.vb: FloatingBehaviorEngine.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.With(BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior)
-  name: With(IFloatingBehavior)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingText_Behaviors_Engine_FloatingBehaviorEngine_With_BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.With(BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.With(BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior)
-  nameWithType: FloatingBehaviorEngine.With(IFloatingBehavior)
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.With*
-  name: With
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingText_Behaviors_Engine_FloatingBehaviorEngine_With_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.With
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.With
-  nameWithType: FloatingBehaviorEngine.With
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset(System.Collections.Generic.List{BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior})
-  name: WithPreset(List<IFloatingBehavior>)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingText_Behaviors_Engine_FloatingBehaviorEngine_WithPreset_System_Collections_Generic_List_BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior__
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset(System.Collections.Generic.List{BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior})
-  name.vb: WithPreset(List(Of IFloatingBehavior))
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset(System.Collections.Generic.List<BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior>)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset(System.Collections.Generic.List(Of BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior))
-  nameWithType: FloatingBehaviorEngine.WithPreset(List<IFloatingBehavior>)
-  nameWithType.vb: FloatingBehaviorEngine.WithPreset(List(Of IFloatingBehavior))
-- uid: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset*
-  name: WithPreset
-  href: api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingText_Behaviors_Engine_FloatingBehaviorEngine_WithPreset_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset
-  fullName: BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.WithPreset
-  nameWithType: FloatingBehaviorEngine.WithPreset
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior
-  name: ExpandShrinkBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior
-  nameWithType: ExpandShrinkBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.#ctor(System.Single,System.Single,System.Int32)
-  name: ExpandShrinkBehavior(float, float, int)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ExpandShrinkBehavior__ctor_System_Single_System_Single_System_Int32_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.#ctor(System.Single,System.Single,System.Int32)
-  name.vb: New(Single, Single, Integer)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.ExpandShrinkBehavior(float, float, int)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.New(Single, Single, Integer)
-  nameWithType: ExpandShrinkBehavior.ExpandShrinkBehavior(float, float, int)
-  nameWithType.vb: ExpandShrinkBehavior.New(Single, Single, Integer)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.#ctor*
-  name: ExpandShrinkBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ExpandShrinkBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.ExpandShrinkBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.New
-  nameWithType: ExpandShrinkBehavior.ExpandShrinkBehavior
-  nameWithType.vb: ExpandShrinkBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ExpandShrinkBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: ExpandShrinkBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ExpandShrinkBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.InitializeBehavior
-  nameWithType: ExpandShrinkBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ExpandShrinkBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior(Single)
-  nameWithType: ExpandShrinkBehavior.UpdateBehavior(float)
-  nameWithType.vb: ExpandShrinkBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ExpandShrinkBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.UpdateBehavior
-  nameWithType: ExpandShrinkBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior
-  name: FadeOutBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior
-  nameWithType: FadeOutBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.#ctor(System.Single)
-  name: FadeOutBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html#BlackMassSoftware_FloatingText_Behaviors_FadeOutBehavior__ctor_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.#ctor(System.Single)
-  name.vb: New(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.FadeOutBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.New(Single)
-  nameWithType: FadeOutBehavior.FadeOutBehavior(float)
-  nameWithType.vb: FadeOutBehavior.New(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.#ctor*
-  name: FadeOutBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html#BlackMassSoftware_FloatingText_Behaviors_FadeOutBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.FadeOutBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.New
-  nameWithType: FadeOutBehavior.FadeOutBehavior
-  nameWithType.vb: FadeOutBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html#BlackMassSoftware_FloatingText_Behaviors_FadeOutBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: FadeOutBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html#BlackMassSoftware_FloatingText_Behaviors_FadeOutBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.InitializeBehavior
-  nameWithType: FadeOutBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html#BlackMassSoftware_FloatingText_Behaviors_FadeOutBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior(Single)
-  nameWithType: FadeOutBehavior.UpdateBehavior(float)
-  nameWithType.vb: FadeOutBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html#BlackMassSoftware_FloatingText_Behaviors_FadeOutBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.UpdateBehavior
-  nameWithType: FadeOutBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors
-  name: FloatingBehaviors
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors
-  nameWithType: FloatingBehaviors
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.#ctor
-  name: FloatingBehaviors()
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors__ctor
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.#ctor
-  name.vb: New()
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FloatingBehaviors()
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.New()
-  nameWithType: FloatingBehaviors.FloatingBehaviors()
-  nameWithType.vb: FloatingBehaviors.New()
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.#ctor*
-  name: FloatingBehaviors
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FloatingBehaviors
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.New
-  nameWithType: FloatingBehaviors.FloatingBehaviors
-  nameWithType.vb: FloatingBehaviors.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
-  name: ColorGradient(Color, Color, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ColorGradient_UnityEngine_Color_UnityEngine_Color_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
-  name.vb: ColorGradient(Color, Color, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color, UnityEngine.Color, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color, UnityEngine.Color, Single)
-  nameWithType: FloatingBehaviors.ColorGradient(Color, Color, float)
-  nameWithType.vb: FloatingBehaviors.ColorGradient(Color, Color, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient*
-  name: ColorGradient
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ColorGradient_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ColorGradient
-  nameWithType: FloatingBehaviors.ColorGradient
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)
-  name: ExpandShrink(float, float, int)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ExpandShrink_System_Single_System_Single_System_Int32_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)
-  name.vb: ExpandShrink(Single, Single, Integer)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink(float, float, int)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink(Single, Single, Integer)
-  nameWithType: FloatingBehaviors.ExpandShrink(float, float, int)
-  nameWithType.vb: FloatingBehaviors.ExpandShrink(Single, Single, Integer)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink*
-  name: ExpandShrink
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ExpandShrink_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ExpandShrink
-  nameWithType: FloatingBehaviors.ExpandShrink
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut(System.Single)
-  name: FadeOut(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_FadeOut_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut(System.Single)
-  name.vb: FadeOut(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut(Single)
-  nameWithType: FloatingBehaviors.FadeOut(float)
-  nameWithType.vb: FloatingBehaviors.FadeOut(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut*
-  name: FadeOut
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_FadeOut_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.FadeOut
-  nameWithType: FloatingBehaviors.FadeOut
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp(System.Single,System.Single)
-  name: MoveUp(float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_MoveUp_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp(System.Single,System.Single)
-  name.vb: MoveUp(Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp(float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp(Single, Single)
-  nameWithType: FloatingBehaviors.MoveUp(float, float)
-  nameWithType.vb: FloatingBehaviors.MoveUp(Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp*
-  name: MoveUp
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_MoveUp_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUp
-  nameWithType: FloatingBehaviors.MoveUp
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc(System.Single,System.Single,System.Single)
-  name: MoveUpArc(float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_MoveUpArc_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc(System.Single,System.Single,System.Single)
-  name.vb: MoveUpArc(Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc(float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc(Single, Single, Single)
-  nameWithType: FloatingBehaviors.MoveUpArc(float, float, float)
-  nameWithType.vb: FloatingBehaviors.MoveUpArc(Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc*
-  name: MoveUpArc
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_MoveUpArc_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpArc
-  nameWithType: FloatingBehaviors.MoveUpArc
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)
-  name: MoveUpExpand(float, float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_MoveUpExpand_System_Single_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)
-  name.vb: MoveUpExpand(Single, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand(float, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand(Single, Single, Single, Single)
-  nameWithType: FloatingBehaviors.MoveUpExpand(float, float, float, float)
-  nameWithType.vb: FloatingBehaviors.MoveUpExpand(Single, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand*
-  name: MoveUpExpand
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_MoveUpExpand_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.MoveUpExpand
-  nameWithType: FloatingBehaviors.MoveUpExpand
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop(System.Single,System.Single)
-  name: Pop(float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_Pop_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop(System.Single,System.Single)
-  name.vb: Pop(Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop(float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop(Single, Single)
-  nameWithType: FloatingBehaviors.Pop(float, float)
-  nameWithType.vb: FloatingBehaviors.Pop(Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop*
-  name: Pop
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_Pop_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Pop
-  nameWithType: FloatingBehaviors.Pop
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo(System.Single,System.Single)
-  name: ScaleTo(float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ScaleTo_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo(System.Single,System.Single)
-  name.vb: ScaleTo(Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo(float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo(Single, Single)
-  nameWithType: FloatingBehaviors.ScaleTo(float, float)
-  nameWithType.vb: FloatingBehaviors.ScaleTo(Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo*
-  name: ScaleTo
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ScaleTo_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ScaleTo
-  nameWithType: FloatingBehaviors.ScaleTo
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake(System.Single)
-  name: Shake(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_Shake_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake(System.Single)
-  name.vb: Shake(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake(Single)
-  nameWithType: FloatingBehaviors.Shake(float)
-  nameWithType.vb: FloatingBehaviors.Shake(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake*
-  name: Shake
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_Shake_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Shake
-  nameWithType: FloatingBehaviors.Shake
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX(System.Single)
-  name: ShakeX(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ShakeX_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX(System.Single)
-  name.vb: ShakeX(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX(Single)
-  nameWithType: FloatingBehaviors.ShakeX(float)
-  nameWithType.vb: FloatingBehaviors.ShakeX(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX*
-  name: ShakeX
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_ShakeX_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.ShakeX
-  nameWithType: FloatingBehaviors.ShakeX
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble(System.Single)
-  name: Wobble(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_Wobble_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble(System.Single)
-  name.vb: Wobble(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble(Single)
-  nameWithType: FloatingBehaviors.Wobble(float)
-  nameWithType.vb: FloatingBehaviors.Wobble(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble*
-  name: Wobble
-  href: api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingText_Behaviors_FloatingBehaviors_Wobble_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble
-  fullName: BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.Wobble
-  nameWithType: FloatingBehaviors.Wobble
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior
-  name: IFloatingBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior
-  nameWithType: IFloatingBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.#ctor
-  name: IFloatingBehavior()
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior__ctor
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.#ctor
-  name.vb: New()
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IFloatingBehavior()
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.New()
-  nameWithType: IFloatingBehavior.IFloatingBehavior()
-  nameWithType.vb: IFloatingBehavior.New()
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.#ctor*
-  name: IFloatingBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IFloatingBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.New
-  nameWithType: IFloatingBehavior.IFloatingBehavior
-  nameWithType.vb: IFloatingBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor(System.Single)
-  name: DelayFor(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_DelayFor_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor(System.Single)
-  name.vb: DelayFor(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor(Single)
-  nameWithType: IFloatingBehavior.DelayFor(float)
-  nameWithType.vb: IFloatingBehavior.DelayFor(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor*
-  name: DelayFor
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_DelayFor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DelayFor
-  nameWithType: IFloatingBehavior.DelayFor
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay(System.Single)
-  name: DoWaitForDelay(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_DoWaitForDelay_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay(System.Single)
-  name.vb: DoWaitForDelay(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay(Single)
-  nameWithType: IFloatingBehavior.DoWaitForDelay(float)
-  nameWithType.vb: IFloatingBehavior.DoWaitForDelay(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay*
-  name: DoWaitForDelay
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_DoWaitForDelay_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.DoWaitForDelay
-  nameWithType: IFloatingBehavior.DoWaitForDelay
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: IFloatingBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.InitializeBehavior
-  nameWithType: IFloatingBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IsFinished
-  name: IsFinished
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_IsFinished
-  commentId: P:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IsFinished
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IsFinished
-  nameWithType: IFloatingBehavior.IsFinished
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IsFinished*
-  name: IsFinished
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_IsFinished_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IsFinished
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.IsFinished
-  nameWithType: IFloatingBehavior.IsFinished
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior(Single)
-  nameWithType: IFloatingBehavior.UpdateBehavior(float)
-  nameWithType.vb: IFloatingBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.UpdateBehavior
-  nameWithType: IFloatingBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.Wait
-  name: Wait()
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_Wait
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.Wait
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.Wait()
-  nameWithType: IFloatingBehavior.Wait()
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.Wait*
-  name: Wait
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_Wait_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.Wait
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.Wait
-  nameWithType: IFloatingBehavior.Wait
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.WaitForFinish
-  name: WaitForFinish
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_WaitForFinish
-  commentId: P:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.WaitForFinish
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.WaitForFinish
-  nameWithType: IFloatingBehavior.WaitForFinish
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.WaitForFinish*
-  name: WaitForFinish
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_WaitForFinish_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.WaitForFinish
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.WaitForFinish
-  nameWithType: IFloatingBehavior.WaitForFinish
-- uid: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.owner
-  name: owner
-  href: api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingText_Behaviors_IFloatingBehavior_owner
-  commentId: F:BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.owner
-  fullName: BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.owner
-  nameWithType: IFloatingBehavior.owner
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior
-  name: MoveUpArcBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior
-  nameWithType: MoveUpArcBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.#ctor(System.Single,System.Single,System.Single)
-  name: MoveUpArcBehavior(float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior__ctor_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.#ctor(System.Single,System.Single,System.Single)
-  name.vb: New(Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.MoveUpArcBehavior(float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.New(Single, Single, Single)
-  nameWithType: MoveUpArcBehavior.MoveUpArcBehavior(float, float, float)
-  nameWithType.vb: MoveUpArcBehavior.New(Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.#ctor*
-  name: MoveUpArcBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.MoveUpArcBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.New
-  nameWithType: MoveUpArcBehavior.MoveUpArcBehavior
-  nameWithType.vb: MoveUpArcBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: MoveUpArcBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.InitializeBehavior
-  nameWithType: MoveUpArcBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier(UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3,System.Single)
-  name: QuadraticBezier(Vector3, Vector3, Vector3, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior_QuadraticBezier_UnityEngine_Vector3_UnityEngine_Vector3_UnityEngine_Vector3_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier(UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3,System.Single)
-  name.vb: QuadraticBezier(Vector3, Vector3, Vector3, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, Single)
-  nameWithType: MoveUpArcBehavior.QuadraticBezier(Vector3, Vector3, Vector3, float)
-  nameWithType.vb: MoveUpArcBehavior.QuadraticBezier(Vector3, Vector3, Vector3, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier*
-  name: QuadraticBezier
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior_QuadraticBezier_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.QuadraticBezier
-  nameWithType: MoveUpArcBehavior.QuadraticBezier
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior(Single)
-  nameWithType: MoveUpArcBehavior.UpdateBehavior(float)
-  nameWithType.vb: MoveUpArcBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpArcBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.UpdateBehavior
-  nameWithType: MoveUpArcBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior
-  name: MoveUpBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior
-  nameWithType: MoveUpBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.#ctor(System.Single,System.Single)
-  name: MoveUpBehavior(float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpBehavior__ctor_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.#ctor(System.Single,System.Single)
-  name.vb: New(Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.MoveUpBehavior(float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.New(Single, Single)
-  nameWithType: MoveUpBehavior.MoveUpBehavior(float, float)
-  nameWithType.vb: MoveUpBehavior.New(Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.#ctor*
-  name: MoveUpBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.MoveUpBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.New
-  nameWithType: MoveUpBehavior.MoveUpBehavior
-  nameWithType.vb: MoveUpBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: MoveUpBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.InitializeBehavior
-  nameWithType: MoveUpBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior(Single)
-  nameWithType: MoveUpBehavior.UpdateBehavior(float)
-  nameWithType.vb: MoveUpBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.UpdateBehavior
-  nameWithType: MoveUpBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior
-  name: MoveUpExpandBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior
-  nameWithType: MoveUpExpandBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.#ctor(System.Single,System.Single,System.Single,System.Single)
-  name: MoveUpExpandBehavior(float, float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpExpandBehavior__ctor_System_Single_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.#ctor(System.Single,System.Single,System.Single,System.Single)
-  name.vb: New(Single, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.MoveUpExpandBehavior(float, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.New(Single, Single, Single, Single)
-  nameWithType: MoveUpExpandBehavior.MoveUpExpandBehavior(float, float, float, float)
-  nameWithType.vb: MoveUpExpandBehavior.New(Single, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.#ctor*
-  name: MoveUpExpandBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpExpandBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.MoveUpExpandBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.New
-  nameWithType: MoveUpExpandBehavior.MoveUpExpandBehavior
-  nameWithType.vb: MoveUpExpandBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpExpandBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: MoveUpExpandBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpExpandBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.InitializeBehavior
-  nameWithType: MoveUpExpandBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpExpandBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior(Single)
-  nameWithType: MoveUpExpandBehavior.UpdateBehavior(float)
-  nameWithType.vb: MoveUpExpandBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html#BlackMassSoftware_FloatingText_Behaviors_MoveUpExpandBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.UpdateBehavior
-  nameWithType: MoveUpExpandBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior
-  name: PopBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.PopBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior
-  nameWithType: PopBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.#ctor(System.Single,System.Single)
-  name: PopBehavior(float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingText_Behaviors_PopBehavior__ctor_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.PopBehavior.#ctor(System.Single,System.Single)
-  name.vb: New(Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.PopBehavior(float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.New(Single, Single)
-  nameWithType: PopBehavior.PopBehavior(float, float)
-  nameWithType.vb: PopBehavior.New(Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.#ctor*
-  name: PopBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingText_Behaviors_PopBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.PopBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.PopBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.New
-  nameWithType: PopBehavior.PopBehavior
-  nameWithType.vb: PopBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingText_Behaviors_PopBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.PopBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: PopBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingText_Behaviors_PopBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.PopBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.InitializeBehavior
-  nameWithType: PopBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingText_Behaviors_PopBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior(Single)
-  nameWithType: PopBehavior.UpdateBehavior(float)
-  nameWithType.vb: PopBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingText_Behaviors_PopBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.PopBehavior.UpdateBehavior
-  nameWithType: PopBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior
-  name: ScaleToBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior
-  nameWithType: ScaleToBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.#ctor(System.Single,System.Single)
-  name: ScaleToBehavior(float, float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ScaleToBehavior__ctor_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.#ctor(System.Single,System.Single)
-  name.vb: New(Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.ScaleToBehavior(float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.New(Single, Single)
-  nameWithType: ScaleToBehavior.ScaleToBehavior(float, float)
-  nameWithType.vb: ScaleToBehavior.New(Single, Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.#ctor*
-  name: ScaleToBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ScaleToBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.ScaleToBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.New
-  nameWithType: ScaleToBehavior.ScaleToBehavior
-  nameWithType.vb: ScaleToBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ScaleToBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: ScaleToBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ScaleToBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.InitializeBehavior
-  nameWithType: ScaleToBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ScaleToBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior(Single)
-  nameWithType: ScaleToBehavior.UpdateBehavior(float)
-  nameWithType.vb: ScaleToBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ScaleToBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.UpdateBehavior
-  nameWithType: ScaleToBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior
-  name: ShakeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior
-  nameWithType: ShakeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.#ctor(System.Single)
-  name: ShakeBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeBehavior__ctor_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.#ctor(System.Single)
-  name.vb: New(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.ShakeBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.New(Single)
-  nameWithType: ShakeBehavior.ShakeBehavior(float)
-  nameWithType.vb: ShakeBehavior.New(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.#ctor*
-  name: ShakeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.ShakeBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.New
-  nameWithType: ShakeBehavior.ShakeBehavior
-  nameWithType.vb: ShakeBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: ShakeBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.InitializeBehavior
-  nameWithType: ShakeBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior(Single)
-  nameWithType: ShakeBehavior.UpdateBehavior(float)
-  nameWithType.vb: ShakeBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.UpdateBehavior
-  nameWithType: ShakeBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior
-  name: ShakeXBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior
-  nameWithType: ShakeXBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.#ctor(System.Single)
-  name: ShakeXBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeXBehavior__ctor_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.#ctor(System.Single)
-  name.vb: New(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.ShakeXBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.New(Single)
-  nameWithType: ShakeXBehavior.ShakeXBehavior(float)
-  nameWithType.vb: ShakeXBehavior.New(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.#ctor*
-  name: ShakeXBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeXBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.ShakeXBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.New
-  nameWithType: ShakeXBehavior.ShakeXBehavior
-  nameWithType.vb: ShakeXBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeXBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: ShakeXBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeXBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.InitializeBehavior
-  nameWithType: ShakeXBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeXBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior(Single)
-  nameWithType: ShakeXBehavior.UpdateBehavior(float)
-  nameWithType.vb: ShakeXBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html#BlackMassSoftware_FloatingText_Behaviors_ShakeXBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.UpdateBehavior
-  nameWithType: ShakeXBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior
-  name: WobbleBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html
-  commentId: T:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior
-  nameWithType: WobbleBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.#ctor(System.Single)
-  name: WobbleBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html#BlackMassSoftware_FloatingText_Behaviors_WobbleBehavior__ctor_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.#ctor(System.Single)
-  name.vb: New(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.WobbleBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.New(Single)
-  nameWithType: WobbleBehavior.WobbleBehavior(float)
-  nameWithType.vb: WobbleBehavior.New(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.#ctor*
-  name: WobbleBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html#BlackMassSoftware_FloatingText_Behaviors_WobbleBehavior__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.WobbleBehavior
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.New
-  nameWithType: WobbleBehavior.WobbleBehavior
-  nameWithType.vb: WobbleBehavior.New
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.InitializeBehavior(UnityEngine.GameObject)
-  name: InitializeBehavior(GameObject)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html#BlackMassSoftware_FloatingText_Behaviors_WobbleBehavior_InitializeBehavior_UnityEngine_GameObject_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.InitializeBehavior(UnityEngine.GameObject)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.InitializeBehavior(UnityEngine.GameObject)
-  nameWithType: WobbleBehavior.InitializeBehavior(GameObject)
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.InitializeBehavior*
-  name: InitializeBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html#BlackMassSoftware_FloatingText_Behaviors_WobbleBehavior_InitializeBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.InitializeBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.InitializeBehavior
-  nameWithType: WobbleBehavior.InitializeBehavior
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior(System.Single)
-  name: UpdateBehavior(float)
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html#BlackMassSoftware_FloatingText_Behaviors_WobbleBehavior_UpdateBehavior_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior(System.Single)
-  name.vb: UpdateBehavior(Single)
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior(float)
-  fullName.vb: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior(Single)
-  nameWithType: WobbleBehavior.UpdateBehavior(float)
-  nameWithType.vb: WobbleBehavior.UpdateBehavior(Single)
-- uid: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior*
-  name: UpdateBehavior
-  href: api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html#BlackMassSoftware_FloatingText_Behaviors_WobbleBehavior_UpdateBehavior_
-  commentId: Overload:BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior
-  fullName: BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.UpdateBehavior
-  nameWithType: WobbleBehavior.UpdateBehavior
-- uid: BlackMassSoftware.FloatingText.Engine
-  name: BlackMassSoftware.FloatingText.Engine
-  href: api/BlackMassSoftware.FloatingText.Engine.html
-  commentId: N:BlackMassSoftware.FloatingText.Engine
-  fullName: BlackMassSoftware.FloatingText.Engine
-  nameWithType: BlackMassSoftware.FloatingText.Engine
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine
-  name: FloatingTextEngine
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html
-  commentId: T:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine
-  nameWithType: FloatingTextEngine
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.#ctor
-  name: FloatingTextEngine()
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine__ctor
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.#ctor
-  name.vb: New()
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.FloatingTextEngine()
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.New()
-  nameWithType: FloatingTextEngine.FloatingTextEngine()
-  nameWithType.vb: FloatingTextEngine.New()
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.#ctor*
-  name: FloatingTextEngine
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.FloatingTextEngine
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.New
-  nameWithType: FloatingTextEngine.FloatingTextEngine
-  nameWithType.vb: FloatingTextEngine.New
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,System.Boolean)
-  name: CreateFloatingTextAt(Vector3, int, bool)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Int32_System_Boolean_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,System.Boolean)
-  name.vb: CreateFloatingTextAt(Vector3, Integer, Boolean)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, int, bool)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, Integer, Boolean)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, int, bool)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, Integer, Boolean)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)
-  name: CreateFloatingTextAt(Vector3, int, float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Int32_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)
-  name.vb: CreateFloatingTextAt(Vector3, Integer, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, int, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, Integer, Single, Single, Single)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, int, float, float, float)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, Integer, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,UnityEngine.Color)
-  name: CreateFloatingTextAt(Vector3, int, Color)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Int32_UnityEngine_Color_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,UnityEngine.Color)
-  name.vb: CreateFloatingTextAt(Vector3, Integer, Color)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, int, UnityEngine.Color)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, Integer, UnityEngine.Color)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, int, Color)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, Integer, Color)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,System.Boolean)
-  name: CreateFloatingTextAt(Vector3, float, bool)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Single_System_Boolean_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,System.Boolean)
-  name.vb: CreateFloatingTextAt(Vector3, Single, Boolean)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, float, bool)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, Single, Boolean)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, float, bool)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, Single, Boolean)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)
-  name: CreateFloatingTextAt(Vector3, float, float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Single_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)
-  name.vb: CreateFloatingTextAt(Vector3, Single, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, float, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, Single, Single, Single, Single)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, float, float, float, float)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, Single, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,UnityEngine.Color)
-  name: CreateFloatingTextAt(Vector3, float, Color)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Single_UnityEngine_Color_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,UnityEngine.Color)
-  name.vb: CreateFloatingTextAt(Vector3, Single, Color)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, float, UnityEngine.Color)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, Single, UnityEngine.Color)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, float, Color)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, Single, Color)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)
-  name: CreateFloatingTextAt(Vector3, string, float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_String_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)
-  name.vb: CreateFloatingTextAt(Vector3, String, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, string, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, String, Single, Single, Single)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, string, float, float, float)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, String, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.String,UnityEngine.Color)
-  name: CreateFloatingTextAt(Vector3, string, Color)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_String_UnityEngine_Color_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.String,UnityEngine.Color)
-  name.vb: CreateFloatingTextAt(Vector3, String, Color)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, string, UnityEngine.Color)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3, String, UnityEngine.Color)
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt(Vector3, string, Color)
-  nameWithType.vb: FloatingTextEngine.CreateFloatingTextAt(Vector3, String, Color)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt*
-  name: CreateFloatingTextAt
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_CreateFloatingTextAt_
-  commentId: Overload:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.CreateFloatingTextAt
-  nameWithType: FloatingTextEngine.CreateFloatingTextAt
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance(System.Boolean)
-  name: EnableSpatialXVariance(bool)
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_EnableSpatialXVariance_System_Boolean_
-  commentId: M:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance(System.Boolean)
-  name.vb: EnableSpatialXVariance(Boolean)
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance(bool)
-  fullName.vb: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance(Boolean)
-  nameWithType: FloatingTextEngine.EnableSpatialXVariance(bool)
-  nameWithType.vb: FloatingTextEngine.EnableSpatialXVariance(Boolean)
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance*
-  name: EnableSpatialXVariance
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_EnableSpatialXVariance_
-  commentId: Overload:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.EnableSpatialXVariance
-  nameWithType: FloatingTextEngine.EnableSpatialXVariance
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.floatingTextPool
-  name: floatingTextPool
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_floatingTextPool
-  commentId: F:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.floatingTextPool
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.floatingTextPool
-  nameWithType: FloatingTextEngine.floatingTextPool
-- uid: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.mInstance
-  name: mInstance
-  href: api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html#BlackMassSoftware_FloatingText_Engine_FloatingTextEngine_mInstance
-  commentId: F:BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.mInstance
-  fullName: BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.mInstance
-  nameWithType: FloatingTextEngine.mInstance
-- uid: BlackMassSoftware.FloatingText.Presets
-  name: BlackMassSoftware.FloatingText.Presets
-  href: api/BlackMassSoftware.FloatingText.Presets.html
-  commentId: N:BlackMassSoftware.FloatingText.Presets
-  fullName: BlackMassSoftware.FloatingText.Presets
-  nameWithType: BlackMassSoftware.FloatingText.Presets
-- uid: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType
-  name: EFloatingDamageType
-  href: api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html
-  commentId: T:BlackMassSoftware.FloatingText.Presets.EFloatingDamageType
-  fullName: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType
-  nameWithType: EFloatingDamageType
-- uid: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.FIRE
-  name: FIRE
-  href: api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html#BlackMassSoftware_FloatingText_Presets_EFloatingDamageType_FIRE
-  commentId: F:BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.FIRE
-  fullName: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.FIRE
-  nameWithType: EFloatingDamageType.FIRE
-- uid: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.FROST
-  name: FROST
-  href: api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html#BlackMassSoftware_FloatingText_Presets_EFloatingDamageType_FROST
-  commentId: F:BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.FROST
-  fullName: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.FROST
-  nameWithType: EFloatingDamageType.FROST
-- uid: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.LIGHTNING
-  name: LIGHTNING
-  href: api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html#BlackMassSoftware_FloatingText_Presets_EFloatingDamageType_LIGHTNING
-  commentId: F:BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.LIGHTNING
-  fullName: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.LIGHTNING
-  nameWithType: EFloatingDamageType.LIGHTNING
-- uid: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.POISON
-  name: POISON
-  href: api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html#BlackMassSoftware_FloatingText_Presets_EFloatingDamageType_POISON
-  commentId: F:BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.POISON
-  fullName: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.POISON
-  nameWithType: EFloatingDamageType.POISON
-- uid: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.VOID
-  name: VOID
-  href: api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html#BlackMassSoftware_FloatingText_Presets_EFloatingDamageType_VOID
-  commentId: F:BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.VOID
-  fullName: BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.VOID
-  nameWithType: EFloatingDamageType.VOID
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets
-  name: FloatingTextPresets
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html
-  commentId: T:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets
-  nameWithType: FloatingTextPresets
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.#ctor
-  name: FloatingTextPresets()
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets__ctor
-  commentId: M:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.#ctor
-  name.vb: New()
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.FloatingTextPresets()
-  fullName.vb: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.New()
-  nameWithType: FloatingTextPresets.FloatingTextPresets()
-  nameWithType.vb: FloatingTextPresets.New()
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.#ctor*
-  name: FloatingTextPresets
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.#ctor
-  name.vb: New
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.FloatingTextPresets
-  fullName.vb: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.New
-  nameWithType: FloatingTextPresets.FloatingTextPresets
-  nameWithType.vb: FloatingTextPresets.New
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Block
-  name: Block()
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Block
-  commentId: M:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Block
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Block()
-  nameWithType: FloatingTextPresets.Block()
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Block*
-  name: Block
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Block_
-  commentId: Overload:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Block
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Block
-  nameWithType: FloatingTextPresets.Block
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Critical
-  name: Critical()
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Critical
-  commentId: M:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Critical
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Critical()
-  nameWithType: FloatingTextPresets.Critical()
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Critical*
-  name: Critical
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Critical_
-  commentId: Overload:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Critical
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Critical
-  nameWithType: FloatingTextPresets.Critical
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Default
-  name: Default()
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Default
-  commentId: M:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Default
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Default()
-  nameWithType: FloatingTextPresets.Default()
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Default*
-  name: Default
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Default_
-  commentId: Overload:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Default
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Default
-  nameWithType: FloatingTextPresets.Default
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.MagicDamage(BlackMassSoftware.FloatingText.Presets.EFloatingDamageType)
-  name: MagicDamage(EFloatingDamageType)
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_MagicDamage_BlackMassSoftware_FloatingText_Presets_EFloatingDamageType_
-  commentId: M:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.MagicDamage(BlackMassSoftware.FloatingText.Presets.EFloatingDamageType)
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.MagicDamage(BlackMassSoftware.FloatingText.Presets.EFloatingDamageType)
-  nameWithType: FloatingTextPresets.MagicDamage(EFloatingDamageType)
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.MagicDamage*
-  name: MagicDamage
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_MagicDamage_
-  commentId: Overload:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.MagicDamage
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.MagicDamage
-  nameWithType: FloatingTextPresets.MagicDamage
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Miss
-  name: Miss()
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Miss
-  commentId: M:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Miss
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Miss()
-  nameWithType: FloatingTextPresets.Miss()
-- uid: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Miss*
-  name: Miss
-  href: api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html#BlackMassSoftware_FloatingText_Presets_FloatingTextPresets_Miss_
-  commentId: Overload:BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Miss
-  fullName: BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.Miss
-  nameWithType: FloatingTextPresets.Miss
-- uid: BlackMassSoftware.FloatingText.Utilities
-  name: BlackMassSoftware.FloatingText.Utilities
-  href: api/BlackMassSoftware.FloatingText.Utilities.html
-  commentId: N:BlackMassSoftware.FloatingText.Utilities
-  fullName: BlackMassSoftware.FloatingText.Utilities
-  nameWithType: BlackMassSoftware.FloatingText.Utilities
-- uid: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils
-  name: FloatingTextUtils
-  href: api/BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.html
-  commentId: T:BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils
-  fullName: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils
-  nameWithType: FloatingTextUtils
-- uid: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor(System.Single,System.Single,System.Single)
-  name: ConvertRGBToColor(float, float, float)
-  href: api/BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.html#BlackMassSoftware_FloatingText_Utilities_FloatingTextUtils_ConvertRGBToColor_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor(System.Single,System.Single,System.Single)
-  name.vb: ConvertRGBToColor(Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor(float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor(Single, Single, Single)
-  nameWithType: FloatingTextUtils.ConvertRGBToColor(float, float, float)
-  nameWithType.vb: FloatingTextUtils.ConvertRGBToColor(Single, Single, Single)
-- uid: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor*
-  name: ConvertRGBToColor
-  href: api/BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.html#BlackMassSoftware_FloatingText_Utilities_FloatingTextUtils_ConvertRGBToColor_
-  commentId: Overload:BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor
-  fullName: BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.ConvertRGBToColor
-  nameWithType: FloatingTextUtils.ConvertRGBToColor
 - uid: BlackMassSoftware.FloatingTextEngine
   name: BlackMassSoftware.FloatingTextEngine
   href: api/BlackMassSoftware.FloatingTextEngine.html
@@ -1252,6 +13,108 @@ references:
   commentId: N:BlackMassSoftware.FloatingTextEngine.Behaviors
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors
   nameWithType: BlackMassSoftware.FloatingTextEngine.Behaviors
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior
+  name: BlinkBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior
+  nameWithType: BlinkBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.#ctor(System.Single,System.Single)
+  name: BlinkBehavior(float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BlinkBehavior__ctor_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.#ctor(System.Single,System.Single)
+  name.vb: New(Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.BlinkBehavior(float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.New(Single, Single)
+  nameWithType: BlinkBehavior.BlinkBehavior(float, float)
+  nameWithType.vb: BlinkBehavior.New(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.#ctor*
+  name: BlinkBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BlinkBehavior__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.#ctor
+  name.vb: New
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.BlinkBehavior
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.New
+  nameWithType: BlinkBehavior.BlinkBehavior
+  nameWithType.vb: BlinkBehavior.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.InitializeBehavior(UnityEngine.GameObject)
+  name: InitializeBehavior(GameObject)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BlinkBehavior_InitializeBehavior_UnityEngine_GameObject_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.InitializeBehavior(UnityEngine.GameObject)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.InitializeBehavior(UnityEngine.GameObject)
+  nameWithType: BlinkBehavior.InitializeBehavior(GameObject)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.InitializeBehavior*
+  name: InitializeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BlinkBehavior_InitializeBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.InitializeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.InitializeBehavior
+  nameWithType: BlinkBehavior.InitializeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior(System.Single)
+  name: UpdateBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BlinkBehavior_UpdateBehavior_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior(System.Single)
+  name.vb: UpdateBehavior(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior(Single)
+  nameWithType: BlinkBehavior.UpdateBehavior(float)
+  nameWithType.vb: BlinkBehavior.UpdateBehavior(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior*
+  name: UpdateBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BlinkBehavior_UpdateBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.UpdateBehavior
+  nameWithType: BlinkBehavior.UpdateBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior
+  name: ChangeFontSizeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior
+  nameWithType: ChangeFontSizeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor(System.Int32)
+  name: ChangeFontSizeBehavior(int)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior__ctor_System_Int32_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor(System.Int32)
+  name.vb: New(Integer)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.ChangeFontSizeBehavior(int)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.New(Integer)
+  nameWithType: ChangeFontSizeBehavior.ChangeFontSizeBehavior(int)
+  nameWithType.vb: ChangeFontSizeBehavior.New(Integer)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor*
+  name: ChangeFontSizeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor
+  name.vb: New
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.ChangeFontSizeBehavior
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.New
+  nameWithType: ChangeFontSizeBehavior.ChangeFontSizeBehavior
+  nameWithType.vb: ChangeFontSizeBehavior.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.InitializeBehavior(UnityEngine.GameObject)
+  name: InitializeBehavior(GameObject)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior_InitializeBehavior_UnityEngine_GameObject_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.InitializeBehavior(UnityEngine.GameObject)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.InitializeBehavior(UnityEngine.GameObject)
+  nameWithType: ChangeFontSizeBehavior.InitializeBehavior(GameObject)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.InitializeBehavior*
+  name: InitializeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior_InitializeBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.InitializeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.InitializeBehavior
+  nameWithType: ChangeFontSizeBehavior.InitializeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior(System.Single)
+  name: UpdateBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior_UpdateBehavior_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior(System.Single)
+  name.vb: UpdateBehavior(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior(Single)
+  nameWithType: ChangeFontSizeBehavior.UpdateBehavior(float)
+  nameWithType.vb: ChangeFontSizeBehavior.UpdateBehavior(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior*
+  name: UpdateBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior_UpdateBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.UpdateBehavior
+  nameWithType: ChangeFontSizeBehavior.UpdateBehavior
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ColorGradientBehavior
   name: ColorGradientBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ColorGradientBehavior.html
@@ -1354,6 +217,57 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ExpandShrinkBehavior.UpdateBehavior
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ExpandShrinkBehavior.UpdateBehavior
   nameWithType: ExpandShrinkBehavior.UpdateBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior
+  name: FadeInOutBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior
+  nameWithType: FadeInOutBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.#ctor(System.Single,System.Single)
+  name: FadeInOutBehavior(float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior__ctor_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.#ctor(System.Single,System.Single)
+  name.vb: New(Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.FadeInOutBehavior(float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.New(Single, Single)
+  nameWithType: FadeInOutBehavior.FadeInOutBehavior(float, float)
+  nameWithType.vb: FadeInOutBehavior.New(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.#ctor*
+  name: FadeInOutBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.#ctor
+  name.vb: New
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.FadeInOutBehavior
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.New
+  nameWithType: FadeInOutBehavior.FadeInOutBehavior
+  nameWithType.vb: FadeInOutBehavior.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior(UnityEngine.GameObject)
+  name: InitializeBehavior(GameObject)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_InitializeBehavior_UnityEngine_GameObject_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior(UnityEngine.GameObject)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior(UnityEngine.GameObject)
+  nameWithType: FadeInOutBehavior.InitializeBehavior(GameObject)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior*
+  name: InitializeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_InitializeBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.InitializeBehavior
+  nameWithType: FadeInOutBehavior.InitializeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior(System.Single)
+  name: UpdateBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_UpdateBehavior_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior(System.Single)
+  name.vb: UpdateBehavior(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior(Single)
+  nameWithType: FadeInOutBehavior.UpdateBehavior(float)
+  nameWithType.vb: FadeInOutBehavior.UpdateBehavior(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior*
+  name: UpdateBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FadeInOutBehavior_UpdateBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.UpdateBehavior
+  nameWithType: FadeInOutBehavior.UpdateBehavior
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior
   name: FadeOutBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.html
@@ -1456,195 +370,210 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.WithPreset
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.WithPreset
   nameWithType: FloatingBehaviorEngine.WithPreset
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors
-  name: FloatingBehaviors
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html
-  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors
-  nameWithType: FloatingBehaviors
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.#ctor
-  name: FloatingBehaviors()
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors__ctor
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.#ctor
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors
+  name: FloatingTextBehaviors
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors
+  nameWithType: FloatingTextBehaviors
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.#ctor
+  name: FloatingTextBehaviors()
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors__ctor
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.#ctor
   name.vb: New()
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FloatingBehaviors()
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.New()
-  nameWithType: FloatingBehaviors.FloatingBehaviors()
-  nameWithType.vb: FloatingBehaviors.New()
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.#ctor*
-  name: FloatingBehaviors
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors__ctor_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.#ctor
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FloatingTextBehaviors()
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.New()
+  nameWithType: FloatingTextBehaviors.FloatingTextBehaviors()
+  nameWithType.vb: FloatingTextBehaviors.New()
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.#ctor*
+  name: FloatingTextBehaviors
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.#ctor
   name.vb: New
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FloatingBehaviors
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.New
-  nameWithType: FloatingBehaviors.FloatingBehaviors
-  nameWithType.vb: FloatingBehaviors.New
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FloatingTextBehaviors
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.New
+  nameWithType: FloatingTextBehaviors.FloatingTextBehaviors
+  nameWithType.vb: FloatingTextBehaviors.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink(System.Single,System.Single)
+  name: Blink(float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Blink_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink(System.Single,System.Single)
+  name.vb: Blink(Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink(float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink(Single, Single)
+  nameWithType: FloatingTextBehaviors.Blink(float, float)
+  nameWithType.vb: FloatingTextBehaviors.Blink(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink*
+  name: Blink
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Blink_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink
+  nameWithType: FloatingTextBehaviors.Blink
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
   name: ColorGradient(Color, Color, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ColorGradient_UnityEngine_Color_UnityEngine_Color_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ColorGradient_UnityEngine_Color_UnityEngine_Color_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
   name.vb: ColorGradient(Color, Color, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color, UnityEngine.Color, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient(UnityEngine.Color, UnityEngine.Color, Single)
-  nameWithType: FloatingBehaviors.ColorGradient(Color, Color, float)
-  nameWithType.vb: FloatingBehaviors.ColorGradient(Color, Color, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient(UnityEngine.Color, UnityEngine.Color, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient(UnityEngine.Color, UnityEngine.Color, Single)
+  nameWithType: FloatingTextBehaviors.ColorGradient(Color, Color, float)
+  nameWithType.vb: FloatingTextBehaviors.ColorGradient(Color, Color, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient*
   name: ColorGradient
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ColorGradient_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ColorGradient
-  nameWithType: FloatingBehaviors.ColorGradient
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ColorGradient_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient
+  nameWithType: FloatingTextBehaviors.ColorGradient
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)
   name: ExpandShrink(float, float, int)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ExpandShrink_System_Single_System_Single_System_Int32_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ExpandShrink_System_Single_System_Single_System_Int32_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)
   name.vb: ExpandShrink(Single, Single, Integer)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink(float, float, int)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink(Single, Single, Integer)
-  nameWithType: FloatingBehaviors.ExpandShrink(float, float, int)
-  nameWithType.vb: FloatingBehaviors.ExpandShrink(Single, Single, Integer)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink(float, float, int)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink(Single, Single, Integer)
+  nameWithType: FloatingTextBehaviors.ExpandShrink(float, float, int)
+  nameWithType.vb: FloatingTextBehaviors.ExpandShrink(Single, Single, Integer)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink*
   name: ExpandShrink
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ExpandShrink_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ExpandShrink
-  nameWithType: FloatingBehaviors.ExpandShrink
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ExpandShrink_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink
+  nameWithType: FloatingTextBehaviors.ExpandShrink
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut(System.Single)
   name: FadeOut(float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_FadeOut_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeOut_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut(System.Single)
   name.vb: FadeOut(Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut(float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut(Single)
-  nameWithType: FloatingBehaviors.FadeOut(float)
-  nameWithType.vb: FloatingBehaviors.FadeOut(Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut(Single)
+  nameWithType: FloatingTextBehaviors.FadeOut(float)
+  nameWithType.vb: FloatingTextBehaviors.FadeOut(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut*
   name: FadeOut
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_FadeOut_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.FadeOut
-  nameWithType: FloatingBehaviors.FadeOut
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp(System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeOut_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut
+  nameWithType: FloatingTextBehaviors.FadeOut
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp(System.Single,System.Single)
   name: MoveUp(float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_MoveUp_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp(System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUp_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp(System.Single,System.Single)
   name.vb: MoveUp(Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp(float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp(Single, Single)
-  nameWithType: FloatingBehaviors.MoveUp(float, float)
-  nameWithType.vb: FloatingBehaviors.MoveUp(Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp(float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp(Single, Single)
+  nameWithType: FloatingTextBehaviors.MoveUp(float, float)
+  nameWithType.vb: FloatingTextBehaviors.MoveUp(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp*
   name: MoveUp
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_MoveUp_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUp
-  nameWithType: FloatingBehaviors.MoveUp
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc(System.Single,System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUp_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp
+  nameWithType: FloatingTextBehaviors.MoveUp
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc(System.Single,System.Single,System.Single)
   name: MoveUpArc(float, float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_MoveUpArc_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc(System.Single,System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpArc_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc(System.Single,System.Single,System.Single)
   name.vb: MoveUpArc(Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc(float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc(Single, Single, Single)
-  nameWithType: FloatingBehaviors.MoveUpArc(float, float, float)
-  nameWithType.vb: FloatingBehaviors.MoveUpArc(Single, Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc(float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc(Single, Single, Single)
+  nameWithType: FloatingTextBehaviors.MoveUpArc(float, float, float)
+  nameWithType.vb: FloatingTextBehaviors.MoveUpArc(Single, Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc*
   name: MoveUpArc
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_MoveUpArc_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpArc
-  nameWithType: FloatingBehaviors.MoveUpArc
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpArc_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc
+  nameWithType: FloatingTextBehaviors.MoveUpArc
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)
   name: MoveUpExpand(float, float, float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_MoveUpExpand_System_Single_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpExpand_System_Single_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)
   name.vb: MoveUpExpand(Single, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand(float, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand(Single, Single, Single, Single)
-  nameWithType: FloatingBehaviors.MoveUpExpand(float, float, float, float)
-  nameWithType.vb: FloatingBehaviors.MoveUpExpand(Single, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand(float, float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand(Single, Single, Single, Single)
+  nameWithType: FloatingTextBehaviors.MoveUpExpand(float, float, float, float)
+  nameWithType.vb: FloatingTextBehaviors.MoveUpExpand(Single, Single, Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand*
   name: MoveUpExpand
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_MoveUpExpand_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.MoveUpExpand
-  nameWithType: FloatingBehaviors.MoveUpExpand
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop(System.Single,System.Single)
-  name: Pop(float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_Pop_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop(System.Single,System.Single)
-  name.vb: Pop(Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop(float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop(Single, Single)
-  nameWithType: FloatingBehaviors.Pop(float, float)
-  nameWithType.vb: FloatingBehaviors.Pop(Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop*
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpExpand_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand
+  nameWithType: FloatingTextBehaviors.MoveUpExpand
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop(System.Single,System.Single,System.Single)
+  name: Pop(float, float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Pop_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop(System.Single,System.Single,System.Single)
+  name.vb: Pop(Single, Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop(float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop(Single, Single, Single)
+  nameWithType: FloatingTextBehaviors.Pop(float, float, float)
+  nameWithType.vb: FloatingTextBehaviors.Pop(Single, Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop*
   name: Pop
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_Pop_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Pop
-  nameWithType: FloatingBehaviors.Pop
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo(System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Pop_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop
+  nameWithType: FloatingTextBehaviors.Pop
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo(System.Single,System.Single)
   name: ScaleTo(float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ScaleTo_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo(System.Single,System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ScaleTo_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo(System.Single,System.Single)
   name.vb: ScaleTo(Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo(float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo(Single, Single)
-  nameWithType: FloatingBehaviors.ScaleTo(float, float)
-  nameWithType.vb: FloatingBehaviors.ScaleTo(Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo(float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo(Single, Single)
+  nameWithType: FloatingTextBehaviors.ScaleTo(float, float)
+  nameWithType.vb: FloatingTextBehaviors.ScaleTo(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo*
   name: ScaleTo
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ScaleTo_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ScaleTo
-  nameWithType: FloatingBehaviors.ScaleTo
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ScaleTo_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo
+  nameWithType: FloatingTextBehaviors.ScaleTo
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake(System.Single)
   name: Shake(float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_Shake_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Shake_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake(System.Single)
   name.vb: Shake(Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake(float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake(Single)
-  nameWithType: FloatingBehaviors.Shake(float)
-  nameWithType.vb: FloatingBehaviors.Shake(Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake(Single)
+  nameWithType: FloatingTextBehaviors.Shake(float)
+  nameWithType.vb: FloatingTextBehaviors.Shake(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake*
   name: Shake
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_Shake_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Shake
-  nameWithType: FloatingBehaviors.Shake
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Shake_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake
+  nameWithType: FloatingTextBehaviors.Shake
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(System.Single)
   name: ShakeX(float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ShakeX_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(System.Single)
   name.vb: ShakeX(Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX(float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX(Single)
-  nameWithType: FloatingBehaviors.ShakeX(float)
-  nameWithType.vb: FloatingBehaviors.ShakeX(Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(Single)
+  nameWithType: FloatingTextBehaviors.ShakeX(float)
+  nameWithType.vb: FloatingTextBehaviors.ShakeX(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX*
   name: ShakeX
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_ShakeX_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.ShakeX
-  nameWithType: FloatingBehaviors.ShakeX
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX
+  nameWithType: FloatingTextBehaviors.ShakeX
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble(System.Single)
   name: Wobble(float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_Wobble_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble(System.Single)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Wobble_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble(System.Single)
   name.vb: Wobble(Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble(float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble(Single)
-  nameWithType: FloatingBehaviors.Wobble(float)
-  nameWithType.vb: FloatingBehaviors.Wobble(Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble*
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble(Single)
+  nameWithType: FloatingTextBehaviors.Wobble(float)
+  nameWithType.vb: FloatingTextBehaviors.Wobble(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble*
   name: Wobble
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviors_Wobble_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.Wobble
-  nameWithType: FloatingBehaviors.Wobble
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Wobble_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble
+  nameWithType: FloatingTextBehaviors.Wobble
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior
   name: IFloatingBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html
@@ -1942,15 +871,15 @@ references:
   commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior
   nameWithType: PopBehavior
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.#ctor(System.Single,System.Single)
-  name: PopBehavior(float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_PopBehavior__ctor_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.#ctor(System.Single,System.Single)
-  name.vb: New(Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.PopBehavior(float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.New(Single, Single)
-  nameWithType: PopBehavior.PopBehavior(float, float)
-  nameWithType.vb: PopBehavior.New(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.#ctor(System.Single,System.Single,System.Single)
+  name: PopBehavior(float, float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_PopBehavior__ctor_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.#ctor(System.Single,System.Single,System.Single)
+  name.vb: New(Single, Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.PopBehavior(float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.New(Single, Single, Single)
+  nameWithType: PopBehavior.PopBehavior(float, float, float)
+  nameWithType.vb: PopBehavior.New(Single, Single, Single)
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.#ctor*
   name: PopBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_PopBehavior__ctor_

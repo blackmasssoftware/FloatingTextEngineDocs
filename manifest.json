@@ -12,325 +12,31 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.yml",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.html"
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.ColorGradientBehavior.yml\" sourcestartlinenumber=\"1\">This behavior will take 2 colors and lerp between them.</p>\n"
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior",
+      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.yml\" sourcestartlinenumber=\"1\">This behavior causes the text to turn on and off simulating a blink.  It takes a blink speed and a total duration.</p>\n"
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.yml",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.html"
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.Engine.FloatingBehaviorEngine.yml\" sourcestartlinenumber=\"1\">This class handles all the behaviors each spawned floating text object has. It will update all behaviors\nand remove them when finished until no more behaviors are left.  This class also handles the objects return to the object pool.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.Engine.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.Engine.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.Engine",
-      "Summary": null
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.ExpandShrinkBehavior.yml\" sourcestartlinenumber=\"1\">This behavior will scale up and then down for the specified amount of times.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.FadeOutBehavior.yml\" sourcestartlinenumber=\"1\">This behavior will fade out the text over the specified duration.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.FloatingBehaviors.yml\" sourcestartlinenumber=\"1\">This wrapper class hides the &quot;new&quot; calls for each behavior.  This needs to be updated when a new behavior is implemented.\nPass these methods into the .With() function from the FloatingBehaviorEngine class.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.IFloatingBehavior.yml\" sourcestartlinenumber=\"1\">Interface class for all floating text behaviors.  Implement this class to define new behavior components.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.MoveUpArcBehavior.yml\" sourcestartlinenumber=\"1\">This behavior moves up and in an arc.  The arc is determined by the random x value within the &quot;arcSpread&quot; value.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.MoveUpBehavior.yml\" sourcestartlinenumber=\"1\">This behavior moves up in the Y axis.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.MoveUpExpandBehavior.yml\" sourcestartlinenumber=\"1\">This behavior moves up in the Y axis then expands after movement has finished.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.PopBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.PopBehavior.yml\" sourcestartlinenumber=\"1\">This behavior scales up quickly and then slowly scales down over time.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.ScaleToBehavior.yml\" sourcestartlinenumber=\"1\">This behavior scales to the value passed in.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.ShakeBehavior.yml\" sourcestartlinenumber=\"1\">This behavior will cause the floating text to shake for a specified duration.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.ShakeXBehavior.yml\" sourcestartlinenumber=\"1\">This behavior causes the floating text to shake along the x axis.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Behaviors.WobbleBehavior.yml\" sourcestartlinenumber=\"1\">This behavior causes the floating text to rotate back and forth on the z axis.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Behaviors.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Behaviors",
-      "Summary": null
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Engine.FloatingTextEngine",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Engine.FloatingTextEngine.yml\" sourcestartlinenumber=\"1\">The main engine class for the Floating Text library. Call this to create floating text objects.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Engine.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Engine.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Engine",
-      "Summary": null
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Presets.EFloatingDamageType",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Presets.EFloatingDamageType.yml\" sourcestartlinenumber=\"1\">Built in floating damage types that can be used in the MagicDamage preset.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Presets.FloatingTextPresets",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Presets.FloatingTextPresets.yml\" sourcestartlinenumber=\"1\">This optional class has predefined behaviors so the user can call them directly for common behaviors.\nThis prevents the user from having to build their own based on the intended behavior.</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Presets.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Presets.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Presets",
-      "Summary": null
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingText.Utilities.FloatingTextUtils.yml\" sourcestartlinenumber=\"1\">Utilities class</p>\n"
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingText.Utilities.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingText.Utilities.html"
-        }
-      },
-      "version": "",
-      "Uid": null,
-      "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingText.Utilities",
-      "Summary": null
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior",
+      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.yml\" sourcestartlinenumber=\"1\">This behavior will set this floating texts specific size. This is a substitute for changing the global size through the FloatingTextEngine inspector window.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -362,6 +68,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior",
+      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.yml\" sourcestartlinenumber=\"1\">This behavior will fade in and fade out at the specified speed (seconds for full cycle) over time.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.yml",
       "output": {
         ".html": {
@@ -390,17 +110,17 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.yml",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.yml",
       "output": {
         ".html": {
-          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.html"
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors",
-      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviors.yml\" sourcestartlinenumber=\"1\">This wrapper class hides the &quot;new&quot; calls for each behavior.  This needs to be updated when a new behavior is implemented.\nPass these methods into the .With() function from the FloatingBehaviorEngine class.</p>\n"
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors",
+      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.yml\" sourcestartlinenumber=\"1\">This wrapper class hides the &quot;new&quot; calls for each behavior.  This needs to be updated when a new behavior is implemented.\nPass these methods into the .With() function from the FloatingBehaviorEngine class.</p>\n"
     },
     {
       "type": "ManagedReference",
