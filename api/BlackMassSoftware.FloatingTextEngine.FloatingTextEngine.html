@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width">
       <meta name="title" content="Class FloatingTextEngine | Floating Text API ">
     
-    <meta name="description" content="The main engine class for the Floating Text library. Call this to create floating text objects.">
+    
       <link rel="shortcut icon" href="../favicon.ico">
       <link rel="stylesheet" href="../styles/docfx.vendor.min.css">
       <link rel="stylesheet" href="../styles/docfx.css">
@@ -81,8 +81,7 @@
 
 
   <h1 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine" class="text-break">Class FloatingTextEngine</h1>
-  <div class="markdown level0 summary"><p>The main engine class for the Floating Text library. Call this to create floating text objects.</p>
-</div>
+  <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -90,7 +89,7 @@
     <div class="level1"><span class="xref">FloatingTextEngine</span></div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="BlackMassSoftware.html">BlackMassSoftware</a>.<a class="xref" href="BlackMassSoftware.FloatingTextEngine.html">FloatingTextEngine</a></h6>
-  <h6><strong>Assembly</strong>: Assembly-CSharp.dll</h6>
+  <h6><strong>Assembly</strong>: FloatingTextEngine.dll</h6>
   <h5 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_syntax">Syntax</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public class FloatingTextEngine : MonoBehaviour</code></pre>
@@ -112,8 +111,7 @@
 
 
   <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_floatingTextPool" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.floatingTextPool">floatingTextPool</h4>
-  <div class="markdown level1 summary"><p>The floating text pool</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -134,43 +132,17 @@
       </tr>
     </tbody>
   </table>
-
-
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_instance" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.instance">instance</h4>
-  <div class="markdown level1 summary"><p>The engine instance</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="declaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static FloatingTextEngine instance</code></pre>
-  </div>
-  <h5 class="fieldValue">Field Value</h5>
-  <table class="table table-bordered table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html">FloatingTextEngine</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
   <h3 id="methods">Methods
 </h3>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Int32_System_Boolean_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,System.Boolean)">CreateFloatingTextAt(Vector3, int, bool)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_Int32_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.Int32)">CreateTextAtScreenSpace(Vector2, int)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, int damageValue, bool isCriticalDamage = false)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, int value)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -183,22 +155,14 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
-        <td><span class="parametername">damageValue</span></td>
-        <td><p>The damage value to show.</p>
-</td>
-      </tr>
-      <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></td>
-        <td><span class="parametername">isCriticalDamage</span></td>
-        <td><p>if set to <code>true</code> [is critical damage].</p>
-</td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -219,14 +183,13 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Int32_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)">CreateFloatingTextAt(Vector3, int, float, float, float)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_Int32_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.Int32,System.Single,System.Single,System.Single)">CreateTextAtScreenSpace(Vector2, int, float, float, float)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, int damageValue, float r, float g, float b)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, int value, float r, float g, float b)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -239,34 +202,29 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
-        <td><span class="parametername">damageValue</span></td>
-        <td><p>The damage value to show.</p>
-</td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">r</span></td>
-        <td><p>red</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">g</span></td>
-        <td><p>green</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">b</span></td>
-        <td><p>blue</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -287,14 +245,13 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Int32_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Int32,UnityEngine.Color)">CreateFloatingTextAt(Vector3, int, Color)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_Int32_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.Int32,UnityEngine.Color)">CreateTextAtScreenSpace(Vector2, int, Color)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, int damageValue, Color color)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, int value, Color color)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -307,22 +264,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
-        <td><span class="parametername">damageValue</span></td>
-        <td><p>The damage value to show.</p>
-</td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><span class="xref">Color</span></td>
         <td><span class="parametername">color</span></td>
-        <td><p>The color of the text.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -343,14 +297,13 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Single_System_Boolean_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,System.Boolean)">CreateFloatingTextAt(Vector3, float, bool)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.Single)">CreateTextAtScreenSpace(Vector2, float)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, float damageValue, bool isCriticalDamage = false)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, float value)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -363,22 +316,14 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
-        <td><span class="parametername">damageValue</span></td>
-        <td><p>The damage value to show.</p>
-</td>
-      </tr>
-      <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></td>
-        <td><span class="parametername">isCriticalDamage</span></td>
-        <td><p>if set to <code>true</code> [is critical damage].</p>
-</td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -399,14 +344,13 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Single_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)">CreateFloatingTextAt(Vector3, float, float, float, float)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_Single_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.Single,System.Single,System.Single,System.Single)">CreateTextAtScreenSpace(Vector2, float, float, float, float)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, float damageValue, float r, float g, float b)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, float value, float r, float g, float b)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -419,34 +363,29 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
-        <td><span class="parametername">damageValue</span></td>
-        <td><p>The damage value to show.</p>
-</td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">r</span></td>
-        <td><p>red</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">g</span></td>
-        <td><p>green</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">b</span></td>
-        <td><p>blue</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -467,14 +406,13 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_Single_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.Single,UnityEngine.Color)">CreateFloatingTextAt(Vector3, float, Color)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_Single_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.Single,UnityEngine.Color)">CreateTextAtScreenSpace(Vector2, float, Color)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, float damageValue, Color color)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, float value, Color color)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -487,22 +425,19 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
-        <td><span class="parametername">damageValue</span></td>
-        <td><p>The damage value to show.</p>
-</td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><span class="xref">Color</span></td>
         <td><span class="parametername">color</span></td>
-        <td><p>The color of the text.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -523,14 +458,13 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_String_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)">CreateFloatingTextAt(Vector3, string, float, float, float)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_String_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.String,System.Single,System.Single,System.Single)">CreateTextAtScreenSpace(Vector2, string, float, float, float)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, string text, float r, float g, float b)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, string text, float r, float g, float b)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -543,34 +477,29 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">Vector2</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></td>
         <td><span class="parametername">text</span></td>
-        <td><p>The text to show.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">r</span></td>
-        <td><p>red</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">g</span></td>
-        <td><p>green</p>
-</td>
+        <td></td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">b</span></td>
-        <td><p>blue</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -591,14 +520,65 @@
   </table>
 
 
-  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt*"></a>
-  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateFloatingTextAt_UnityEngine_Vector3_System_String_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateFloatingTextAt(UnityEngine.Vector3,System.String,UnityEngine.Color)">CreateFloatingTextAt(Vector3, string, Color)</h4>
-  <div class="markdown level1 summary"><p>Creates the floating text at.</p>
-</div>
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenSpace_UnityEngine_Vector2_System_String_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace(UnityEngine.Vector2,System.String,UnityEngine.Color)">CreateTextAtScreenSpace(Vector2, string, Color)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public FloatingBehaviorEngine CreateFloatingTextAt(Vector3 position, string text, Color color)</code></pre>
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenSpace(Vector2 position, string text, Color color)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector2</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></td>
+        <td><span class="parametername">text</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Color</span></td>
+        <td><span class="parametername">color</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Int32_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32)">CreateTextAtScreenWorldSpace(Vector3, int)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, int value)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -613,20 +593,401 @@
       <tr>
         <td><span class="xref">Vector3</span></td>
         <td><span class="parametername">position</span></td>
-        <td><p>The position of the floating text.</p>
-</td>
+        <td></td>
       </tr>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></td>
-        <td><span class="parametername">text</span></td>
-        <td><p>The text to show.</p>
-</td>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Int32_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)">CreateTextAtScreenWorldSpace(Vector3, int, float, float, float)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, int value, float r, float g, float b)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">r</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">g</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">b</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Int32_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32,UnityEngine.Color)">CreateTextAtScreenWorldSpace(Vector3, int, Color)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, int value, Color color)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><span class="xref">Color</span></td>
         <td><span class="parametername">color</span></td>
-        <td><p>The color of the text.</p>
-</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single)">CreateTextAtScreenWorldSpace(Vector3, float)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, float value)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Single_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)">CreateTextAtScreenWorldSpace(Vector3, float, float, float, float)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, float value, float r, float g, float b)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">r</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">g</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">b</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Single_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single,UnityEngine.Color)">CreateTextAtScreenWorldSpace(Vector3, float, Color)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, float value, Color color)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">value</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Color</span></td>
+        <td><span class="parametername">color</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_String_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)">CreateTextAtScreenWorldSpace(Vector3, string, float, float, float)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, string text, float r, float g, float b)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></td>
+        <td><span class="parametername">text</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">r</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">g</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
+        <td><span class="parametername">b</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html">FloatingBehaviorEngine</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_String_UnityEngine_Color_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.String,UnityEngine.Color)">CreateTextAtScreenWorldSpace(Vector3, string, Color)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static FloatingBehaviorEngine CreateTextAtScreenWorldSpace(Vector3 position, string text, Color color)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Vector3</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></td>
+        <td><span class="parametername">text</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">Color</span></td>
+        <td><span class="parametername">color</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -649,12 +1010,11 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_EnableSpatialXVariance_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.EnableSpatialXVariance*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_EnableSpatialXVariance_System_Boolean_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.EnableSpatialXVariance(System.Boolean)">EnableSpatialXVariance(bool)</h4>
-  <div class="markdown level1 summary"><p>Enables the spatial x variance.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void EnableSpatialXVariance(bool enabled)</code></pre>
+    <pre><code class="lang-csharp hljs">public static void EnableSpatialXVariance(bool enabled)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -669,15 +1029,37 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></td>
         <td><span class="parametername">enabled</span></td>
-        <td><p>if set to <code>true</code> [enabled].</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
-  <h3 id="seealso">See Also</h3>
-  <div class="seealso">
-      <div><span class="xref">UnityEngine.MonoBehaviour</span></div>
+
+
+  <a id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_ReleaseObjectToPool_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.ReleaseObjectToPool*"></a>
+  <h4 id="BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_ReleaseObjectToPool_UnityEngine_GameObject_" data-uid="BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.ReleaseObjectToPool(UnityEngine.GameObject)">ReleaseObjectToPool(GameObject)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void ReleaseObjectToPool(GameObject pooledObject)</code></pre>
   </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">GameObject</span></td>
+        <td><span class="parametername">pooledObject</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
 
 </article>
           </div>

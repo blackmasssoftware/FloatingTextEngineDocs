@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width">
       <meta name="title" content="Class IFloatingBehavior | Floating Text API ">
     
-    <meta name="description" content="Interface class for all floating text behaviors.  Implement this class to define new behavior components.">
+    
       <link rel="shortcut icon" href="../favicon.ico">
       <link rel="stylesheet" href="../styles/docfx.vendor.min.css">
       <link rel="stylesheet" href="../styles/docfx.css">
@@ -81,8 +81,7 @@
 
 
   <h1 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior" class="text-break">Class IFloatingBehavior</h1>
-  <div class="markdown level0 summary"><p>Interface class for all floating text behaviors.  Implement this class to define new behavior components.</p>
-</div>
+  <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -94,12 +93,14 @@
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.ExpandShrinkBehavior.html">ExpandShrinkBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeInOutBehavior.html">FadeInOutBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.FadeOutBehavior.html">FadeOutBehavior</a></div>
-      <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.MoveUpArcBehavior.html">MoveUpArcBehavior</a></div>
+      <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.MoveUpArc2DBehavior.html">MoveUpArc2DBehavior</a></div>
+      <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.MoveUpArc3DBehavior.html">MoveUpArc3DBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.MoveUpBehavior.html">MoveUpBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.MoveUpExpandBehavior.html">MoveUpExpandBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.PopBehavior.html">PopBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.ScaleToBehavior.html">ScaleToBehavior</a></div>
-      <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeBehavior.html">ShakeBehavior</a></div>
+      <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.Shake2DBehavior.html">Shake2DBehavior</a></div>
+      <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.Shake3DBehavior.html">Shake3DBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeXBehavior.html">ShakeXBehavior</a></div>
       <div class="level2"><a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.WobbleBehavior.html">WobbleBehavior</a></div>
   </div>
@@ -128,7 +129,7 @@
     </div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="BlackMassSoftware.html">BlackMassSoftware</a>.<a class="xref" href="BlackMassSoftware.FloatingTextEngine.html">FloatingTextEngine</a>.<a class="xref" href="BlackMassSoftware.FloatingTextEngine.Behaviors.html">Behaviors</a></h6>
-  <h6><strong>Assembly</strong>: Assembly-CSharp.dll</h6>
+  <h6><strong>Assembly</strong>: FloatingTextEngine.dll</h6>
   <h5 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_syntax">Syntax</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public abstract class IFloatingBehavior</code></pre>
@@ -150,8 +151,7 @@
 
 
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_owner" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.owner">owner</h4>
-  <div class="markdown level1 summary"><p>The owner</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -178,8 +178,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_IsFinished_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsFinished*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_IsFinished" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsFinished">IsFinished</h4>
-  <div class="markdown level1 summary"><p>Gets or sets a value indicating whether this instance is finished.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -196,8 +195,7 @@
     <tbody>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></td>
-        <td><p><code>true</code> if this instance is finished; otherwise, <code>false</code>.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -205,8 +203,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_WaitForFinish_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.WaitForFinish*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_WaitForFinish" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.WaitForFinish">WaitForFinish</h4>
-  <div class="markdown level1 summary"><p>Gets or sets a value indicating whether [wait for finish].</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -223,8 +220,7 @@
     <tbody>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></td>
-        <td><p><code>true</code> if [wait for finish]; otherwise, <code>false</code>.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -234,8 +230,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_DelayFor_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.DelayFor*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_DelayFor_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.DelayFor(System.Single)">DelayFor(float)</h4>
-  <div class="markdown level1 summary"><p>Delays the start of the behavior for a time.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -254,8 +249,7 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">delay</span></td>
-        <td><p>The delay.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -278,8 +272,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_DoWaitForDelay_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.DoWaitForDelay*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_DoWaitForDelay_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.DoWaitForDelay(System.Single)">DoWaitForDelay(float)</h4>
-  <div class="markdown level1 summary"><p>Does the wait for delay.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -298,8 +291,7 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">dt</span></td>
-        <td><p>The deltatime.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -322,8 +314,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_InitializeBehavior_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.InitializeBehavior*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_InitializeBehavior_UnityEngine_GameObject_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.InitializeBehavior(UnityEngine.GameObject)">InitializeBehavior(GameObject)</h4>
-  <div class="markdown level1 summary"><p>Initializes the behavior.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -342,8 +333,7 @@
       <tr>
         <td><span class="xref">GameObject</span></td>
         <td><span class="parametername">owner</span></td>
-        <td><p>The owning floating text GameObject.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -351,8 +341,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_UpdateBehavior_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.UpdateBehavior*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_UpdateBehavior_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.UpdateBehavior(System.Single)">UpdateBehavior(float)</h4>
-  <div class="markdown level1 summary"><p>Updates the behavior.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -371,8 +360,7 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">dt</span></td>
-        <td><p>The deltatime.</p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -380,8 +368,7 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_Wait_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.Wait*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_Wait" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.Wait">Wait()</h4>
-  <div class="markdown level1 summary"><p>Marks this behavior as a wait behavior. Any behaviors following this one will have to wait before it finishes for them to start.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
