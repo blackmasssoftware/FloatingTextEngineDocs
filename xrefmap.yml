@@ -418,6 +418,21 @@ references:
   fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.New
   nameWithType: FloatingBehaviorEngine.FloatingBehaviorEngine
   nameWithType.vb: FloatingBehaviorEngine.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers(System.Single)
+  name: UpdateModifiers(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviorEngine_UpdateModifiers_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers(System.Single)
+  name.vb: UpdateModifiers(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers(Single)
+  nameWithType: FloatingBehaviorEngine.UpdateModifiers(float)
+  nameWithType.vb: FloatingBehaviorEngine.UpdateModifiers(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers*
+  name: UpdateModifiers
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviorEngine_UpdateModifiers_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.UpdateModifiers
+  nameWithType: FloatingBehaviorEngine.UpdateModifiers
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.With(BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior)
   name: With(IFloatingBehavior)
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingBehaviorEngine.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingBehaviorEngine_With_BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_
@@ -814,6 +829,18 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsFinished
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsFinished
   nameWithType: IFloatingBehavior.IsFinished
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsPersistentBehavior
+  name: IsPersistentBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_IsPersistentBehavior
+  commentId: P:BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsPersistentBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsPersistentBehavior
+  nameWithType: IFloatingBehavior.IsPersistentBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsPersistentBehavior*
+  name: IsPersistentBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_IsPersistentBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsPersistentBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.IsPersistentBehavior
+  nameWithType: IFloatingBehavior.IsPersistentBehavior
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.UpdateBehavior(System.Single)
   name: UpdateBehavior(float)
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.IFloatingBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_IFloatingBehavior_UpdateBehavior_System_Single_
