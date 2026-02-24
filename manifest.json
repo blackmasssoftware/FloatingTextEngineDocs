@@ -306,6 +306,34 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior",
+      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.yml\" sourcestartlinenumber=\"1\">This behavior causes the floating text to shake along the x axis.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior",
+      "Summary": "<p sourcefile=\"api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.yml\" sourcestartlinenumber=\"1\">This behavior causes the floating text to shake along the x axis.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeXBehavior.yml",
       "output": {
         ".html": {

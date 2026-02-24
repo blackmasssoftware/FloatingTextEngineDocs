@@ -691,21 +691,36 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake3D
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake3D
   nameWithType: FloatingTextBehaviors.Shake3D
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(System.Single)
-  name: ShakeX(float)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(System.Single)
-  name.vb: ShakeX(Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(Single)
-  nameWithType: FloatingTextBehaviors.ShakeX(float)
-  nameWithType.vb: FloatingTextBehaviors.ShakeX(Single)
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX*
-  name: ShakeX
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX
-  nameWithType: FloatingTextBehaviors.ShakeX
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D(System.Single)
+  name: ShakeX2D(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX2D_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D(System.Single)
+  name.vb: ShakeX2D(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D(Single)
+  nameWithType: FloatingTextBehaviors.ShakeX2D(float)
+  nameWithType.vb: FloatingTextBehaviors.ShakeX2D(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D*
+  name: ShakeX2D
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX2D_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX2D
+  nameWithType: FloatingTextBehaviors.ShakeX2D
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D(System.Single)
+  name: ShakeX3D(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX3D_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D(System.Single)
+  name.vb: ShakeX3D(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D(Single)
+  nameWithType: FloatingTextBehaviors.ShakeX3D(float)
+  nameWithType.vb: FloatingTextBehaviors.ShakeX3D(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D*
+  name: ShakeX3D
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX3D_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX3D
+  nameWithType: FloatingTextBehaviors.ShakeX3D
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble(System.Single)
   name: Wobble(float)
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Wobble_System_Single_
@@ -1399,6 +1414,108 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeBehavior.UpdateBehavior
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeBehavior.UpdateBehavior
   nameWithType: ShakeBehavior.UpdateBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior
+  name: ShakeX2DBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior
+  nameWithType: ShakeX2DBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.#ctor(System.Single)
+  name: ShakeX2DBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX2DBehavior__ctor_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.#ctor(System.Single)
+  name.vb: New(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.ShakeX2DBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.New(Single)
+  nameWithType: ShakeX2DBehavior.ShakeX2DBehavior(float)
+  nameWithType.vb: ShakeX2DBehavior.New(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.#ctor*
+  name: ShakeX2DBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX2DBehavior__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.#ctor
+  name.vb: New
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.ShakeX2DBehavior
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.New
+  nameWithType: ShakeX2DBehavior.ShakeX2DBehavior
+  nameWithType.vb: ShakeX2DBehavior.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.InitializeBehavior(UnityEngine.GameObject)
+  name: InitializeBehavior(GameObject)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX2DBehavior_InitializeBehavior_UnityEngine_GameObject_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.InitializeBehavior(UnityEngine.GameObject)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.InitializeBehavior(UnityEngine.GameObject)
+  nameWithType: ShakeX2DBehavior.InitializeBehavior(GameObject)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.InitializeBehavior*
+  name: InitializeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX2DBehavior_InitializeBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.InitializeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.InitializeBehavior
+  nameWithType: ShakeX2DBehavior.InitializeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior(System.Single)
+  name: UpdateBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX2DBehavior_UpdateBehavior_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior(System.Single)
+  name.vb: UpdateBehavior(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior(Single)
+  nameWithType: ShakeX2DBehavior.UpdateBehavior(float)
+  nameWithType.vb: ShakeX2DBehavior.UpdateBehavior(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior*
+  name: UpdateBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX2DBehavior_UpdateBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX2DBehavior.UpdateBehavior
+  nameWithType: ShakeX2DBehavior.UpdateBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior
+  name: ShakeX3DBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior
+  nameWithType: ShakeX3DBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.#ctor(System.Single)
+  name: ShakeX3DBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX3DBehavior__ctor_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.#ctor(System.Single)
+  name.vb: New(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.ShakeX3DBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.New(Single)
+  nameWithType: ShakeX3DBehavior.ShakeX3DBehavior(float)
+  nameWithType.vb: ShakeX3DBehavior.New(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.#ctor*
+  name: ShakeX3DBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX3DBehavior__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.#ctor
+  name.vb: New
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.ShakeX3DBehavior
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.New
+  nameWithType: ShakeX3DBehavior.ShakeX3DBehavior
+  nameWithType.vb: ShakeX3DBehavior.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.InitializeBehavior(UnityEngine.GameObject)
+  name: InitializeBehavior(GameObject)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX3DBehavior_InitializeBehavior_UnityEngine_GameObject_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.InitializeBehavior(UnityEngine.GameObject)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.InitializeBehavior(UnityEngine.GameObject)
+  nameWithType: ShakeX3DBehavior.InitializeBehavior(GameObject)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.InitializeBehavior*
+  name: InitializeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX3DBehavior_InitializeBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.InitializeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.InitializeBehavior
+  nameWithType: ShakeX3DBehavior.InitializeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior(System.Single)
+  name: UpdateBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX3DBehavior_UpdateBehavior_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior(System.Single)
+  name.vb: UpdateBehavior(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior(Single)
+  nameWithType: ShakeX3DBehavior.UpdateBehavior(float)
+  nameWithType.vb: ShakeX3DBehavior.UpdateBehavior(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior*
+  name: UpdateBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ShakeX3DBehavior_UpdateBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeX3DBehavior.UpdateBehavior
+  nameWithType: ShakeX3DBehavior.UpdateBehavior
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeXBehavior
   name: ShakeXBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ShakeXBehavior.html
@@ -1603,84 +1720,84 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace
   fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenSpace
   nameWithType: FloatingTextEngine.CreateTextAtScreenSpace
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32)
-  name: CreateTextAtScreenWorldSpace(Vector3, int)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Int32_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, Integer)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, int)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, Integer)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, int)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, Integer)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)
-  name: CreateTextAtScreenWorldSpace(Vector3, int, float, float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Int32_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, Integer, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, int, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, Integer, Single, Single, Single)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, int, float, float, float)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, Integer, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32,UnityEngine.Color)
-  name: CreateTextAtScreenWorldSpace(Vector3, int, Color)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Int32_UnityEngine_Color_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Int32,UnityEngine.Color)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, Integer, Color)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, int, UnityEngine.Color)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, Integer, UnityEngine.Color)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, int, Color)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, Integer, Color)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single)
-  name: CreateTextAtScreenWorldSpace(Vector3, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, Single)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, float)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)
-  name: CreateTextAtScreenWorldSpace(Vector3, float, float, float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Single_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, Single, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, float, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, Single, Single, Single, Single)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, float, float, float, float)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, Single, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single,UnityEngine.Color)
-  name: CreateTextAtScreenWorldSpace(Vector3, float, Color)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_Single_UnityEngine_Color_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.Single,UnityEngine.Color)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, Single, Color)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, float, UnityEngine.Color)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, Single, UnityEngine.Color)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, float, Color)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, Single, Color)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)
-  name: CreateTextAtScreenWorldSpace(Vector3, string, float, float, float)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_String_System_Single_System_Single_System_Single_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, String, Single, Single, Single)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, string, float, float, float)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, String, Single, Single, Single)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, string, float, float, float)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, String, Single, Single, Single)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.String,UnityEngine.Color)
-  name: CreateTextAtScreenWorldSpace(Vector3, string, Color)
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_UnityEngine_Vector3_System_String_UnityEngine_Color_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3,System.String,UnityEngine.Color)
-  name.vb: CreateTextAtScreenWorldSpace(Vector3, String, Color)
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, string, UnityEngine.Color)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace(UnityEngine.Vector3, String, UnityEngine.Color)
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, string, Color)
-  nameWithType.vb: FloatingTextEngine.CreateTextAtScreenWorldSpace(Vector3, String, Color)
-- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace*
-  name: CreateTextAtScreenWorldSpace
-  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtScreenWorldSpace_
-  commentId: Overload:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace
-  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtScreenWorldSpace
-  nameWithType: FloatingTextEngine.CreateTextAtScreenWorldSpace
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Int32)
+  name: CreateTextAtWorldSpace(Vector3, int)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_Int32_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Int32)
+  name.vb: CreateTextAtWorldSpace(Vector3, Integer)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, int)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, Integer)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, int)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, Integer)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)
+  name: CreateTextAtWorldSpace(Vector3, int, float, float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_Int32_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Int32,System.Single,System.Single,System.Single)
+  name.vb: CreateTextAtWorldSpace(Vector3, Integer, Single, Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, int, float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, Integer, Single, Single, Single)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, int, float, float, float)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, Integer, Single, Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Int32,UnityEngine.Color)
+  name: CreateTextAtWorldSpace(Vector3, int, Color)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_Int32_UnityEngine_Color_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Int32,UnityEngine.Color)
+  name.vb: CreateTextAtWorldSpace(Vector3, Integer, Color)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, int, UnityEngine.Color)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, Integer, UnityEngine.Color)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, int, Color)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, Integer, Color)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Single)
+  name: CreateTextAtWorldSpace(Vector3, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Single)
+  name.vb: CreateTextAtWorldSpace(Vector3, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, Single)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, float)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)
+  name: CreateTextAtWorldSpace(Vector3, float, float, float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_Single_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Single,System.Single,System.Single,System.Single)
+  name.vb: CreateTextAtWorldSpace(Vector3, Single, Single, Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, float, float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, Single, Single, Single, Single)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, float, float, float, float)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, Single, Single, Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Single,UnityEngine.Color)
+  name: CreateTextAtWorldSpace(Vector3, float, Color)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_Single_UnityEngine_Color_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.Single,UnityEngine.Color)
+  name.vb: CreateTextAtWorldSpace(Vector3, Single, Color)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, float, UnityEngine.Color)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, Single, UnityEngine.Color)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, float, Color)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, Single, Color)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)
+  name: CreateTextAtWorldSpace(Vector3, string, float, float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_String_System_Single_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.String,System.Single,System.Single,System.Single)
+  name.vb: CreateTextAtWorldSpace(Vector3, String, Single, Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, string, float, float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, String, Single, Single, Single)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, string, float, float, float)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, String, Single, Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.String,UnityEngine.Color)
+  name: CreateTextAtWorldSpace(Vector3, string, Color)
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_UnityEngine_Vector3_System_String_UnityEngine_Color_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3,System.String,UnityEngine.Color)
+  name.vb: CreateTextAtWorldSpace(Vector3, String, Color)
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, string, UnityEngine.Color)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace(UnityEngine.Vector3, String, UnityEngine.Color)
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, string, Color)
+  nameWithType.vb: FloatingTextEngine.CreateTextAtWorldSpace(Vector3, String, Color)
+- uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace*
+  name: CreateTextAtWorldSpace
+  href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_CreateTextAtWorldSpace_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace
+  fullName: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.CreateTextAtWorldSpace
+  nameWithType: FloatingTextEngine.CreateTextAtWorldSpace
 - uid: BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.EnableSpatialXVariance(System.Boolean)
   name: EnableSpatialXVariance(bool)
   href: api/BlackMassSoftware.FloatingTextEngine.FloatingTextEngine.html#BlackMassSoftware_FloatingTextEngine_FloatingTextEngine_EnableSpatialXVariance_System_Boolean_
