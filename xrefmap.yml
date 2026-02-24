@@ -13,6 +13,57 @@ references:
   commentId: N:BlackMassSoftware.FloatingTextEngine.Behaviors
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors
   nameWithType: BlackMassSoftware.FloatingTextEngine.Behaviors
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior
+  name: BillboardBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior
+  nameWithType: BillboardBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.#ctor(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType,UnityEngine.Transform)
+  name: BillboardBehavior(EBillboardType, Transform)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BillboardBehavior__ctor_BlackMassSoftware_FloatingTextEngine_Behaviors_EBillboardType_UnityEngine_Transform_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.#ctor(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType,UnityEngine.Transform)
+  name.vb: New(EBillboardType, Transform)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.BillboardBehavior(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType, UnityEngine.Transform)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.New(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType, UnityEngine.Transform)
+  nameWithType: BillboardBehavior.BillboardBehavior(EBillboardType, Transform)
+  nameWithType.vb: BillboardBehavior.New(EBillboardType, Transform)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.#ctor*
+  name: BillboardBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BillboardBehavior__ctor_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.#ctor
+  name.vb: New
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.BillboardBehavior
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.New
+  nameWithType: BillboardBehavior.BillboardBehavior
+  nameWithType.vb: BillboardBehavior.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.InitializeBehavior(UnityEngine.GameObject)
+  name: InitializeBehavior(GameObject)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BillboardBehavior_InitializeBehavior_UnityEngine_GameObject_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.InitializeBehavior(UnityEngine.GameObject)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.InitializeBehavior(UnityEngine.GameObject)
+  nameWithType: BillboardBehavior.InitializeBehavior(GameObject)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.InitializeBehavior*
+  name: InitializeBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BillboardBehavior_InitializeBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.InitializeBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.InitializeBehavior
+  nameWithType: BillboardBehavior.InitializeBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior(System.Single)
+  name: UpdateBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BillboardBehavior_UpdateBehavior_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior(System.Single)
+  name.vb: UpdateBehavior(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior(Single)
+  nameWithType: BillboardBehavior.UpdateBehavior(float)
+  nameWithType.vb: BillboardBehavior.UpdateBehavior(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior*
+  name: UpdateBehavior
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_BillboardBehavior_UpdateBehavior_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.UpdateBehavior
+  nameWithType: BillboardBehavior.UpdateBehavior
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior
   name: BlinkBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.html
@@ -166,6 +217,30 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.ColorGradientBehavior.UpdateBehavior
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ColorGradientBehavior.UpdateBehavior
   nameWithType: ColorGradientBehavior.UpdateBehavior
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType
+  name: EBillboardType
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.html
+  commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType
+  nameWithType: EBillboardType
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.Full
+  name: Full
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.html#BlackMassSoftware_FloatingTextEngine_Behaviors_EBillboardType_Full
+  commentId: F:BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.Full
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.Full
+  nameWithType: EBillboardType.Full
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.None
+  name: None
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.html#BlackMassSoftware_FloatingTextEngine_Behaviors_EBillboardType_None
+  commentId: F:BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.None
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.None
+  nameWithType: EBillboardType.None
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.YAxisOnly
+  name: YAxisOnly
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.html#BlackMassSoftware_FloatingTextEngine_Behaviors_EBillboardType_YAxisOnly
+  commentId: F:BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.YAxisOnly
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.YAxisOnly
+  nameWithType: EBillboardType.YAxisOnly
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ExpandShrinkBehavior
   name: ExpandShrinkBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ExpandShrinkBehavior.html
@@ -394,6 +469,18 @@ references:
   fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.New
   nameWithType: FloatingTextBehaviors.FloatingTextBehaviors
   nameWithType.vb: FloatingTextBehaviors.New
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType,UnityEngine.Transform)
+  name: BillboardTextObject(EBillboardType, Transform)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_BillboardTextObject_BlackMassSoftware_FloatingTextEngine_Behaviors_EBillboardType_UnityEngine_Transform_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType,UnityEngine.Transform)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType, UnityEngine.Transform)
+  nameWithType: FloatingTextBehaviors.BillboardTextObject(EBillboardType, Transform)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject*
+  name: BillboardTextObject
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_BillboardTextObject_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject
+  nameWithType: FloatingTextBehaviors.BillboardTextObject
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink(System.Single,System.Single)
   name: Blink(float, float)
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Blink_System_Single_System_Single_

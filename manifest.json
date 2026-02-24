@@ -12,6 +12,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.BillboardBehavior",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.BlinkBehavior.yml",
       "output": {
         ".html": {
@@ -50,6 +64,20 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.ColorGradientBehavior",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType",
       "Summary": null
     },
     {
