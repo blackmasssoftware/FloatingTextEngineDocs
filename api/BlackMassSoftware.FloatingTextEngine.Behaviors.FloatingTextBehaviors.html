@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width">
       <meta name="title" content="Class FloatingTextBehaviors | Floating Text API ">
     
-    
+    <meta name="description" content="This wrapper class hides the &amp;quot;new&amp;quot; calls for each behavior.  This needs to be updated when a new behavior is implemented. Pass these methods into the .With() function from the FloatingBehaviorEngine class.">
       <link rel="shortcut icon" href="../favicon.ico">
       <link rel="stylesheet" href="../styles/docfx.vendor.min.css">
       <link rel="stylesheet" href="../styles/docfx.css">
@@ -81,7 +81,9 @@
 
 
   <h1 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors" class="text-break">Class FloatingTextBehaviors</h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>This wrapper class hides the &quot;new&quot; calls for each behavior.  This needs to be updated when a new behavior is implemented.
+Pass these methods into the .With() function from the FloatingBehaviorEngine class.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -136,7 +138,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_BillboardTextObject_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_BillboardTextObject_BlackMassSoftware_FloatingTextEngine_Behaviors_EBillboardType_UnityEngine_Transform_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.BillboardTextObject(BlackMassSoftware.FloatingTextEngine.Behaviors.EBillboardType,UnityEngine.Transform)">BillboardTextObject(EBillboardType, Transform)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Billboards the text object using the mode provided. Full - Complete rotation towards eye. YAxisOnly - Rotates but locks Y axis.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -183,7 +186,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Blink_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Blink_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink(System.Single,System.Single)">Blink(float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Starts a blinking effect</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -202,12 +206,14 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">blinkSpeed</span></td>
-        <td></td>
+        <td><p>The speed at which the text turns off and on (in seconds, 1.0f = 1 second).  This speed is the total time of a full cycle on and then off.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -230,7 +236,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ChangeFontSize_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ChangeFontSize_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize(System.Single)">ChangeFontSize(float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Changes the font size.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -249,7 +256,8 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">fontSize</span></td>
-        <td></td>
+        <td><p>The new font size of the floating text.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -272,7 +280,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ColorGradient_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ColorGradient_UnityEngine_Color_UnityEngine_Color_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)">ColorGradient(Color, Color, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Lerps from one color to the other</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -291,17 +300,20 @@
       <tr>
         <td><span class="xref">Color</span></td>
         <td><span class="parametername">from</span></td>
-        <td></td>
+        <td><p>The start color</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">Color</span></td>
         <td><span class="parametername">to</span></td>
-        <td></td>
+        <td><p>The end color</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>How long it takes to lerp between the colors</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -324,7 +336,9 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ExpandShrink_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ExpandShrink_System_Single_System_Single_System_Int32_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink(System.Single,System.Single,System.Int32)">ExpandShrink(float, float, int)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Expands then shrinks for the specified amount of time.
+1 time = full cycle of expand/shrink</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -343,17 +357,20 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">scaleTo</span></td>
-        <td></td>
+        <td><p>The value we're going to expand to.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The duration to do each expand and shrink movement.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a></td>
         <td><span class="parametername">howManyTimes</span></td>
-        <td></td>
+        <td><p>The number of times to do the entire cycle of expand/shrink.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -376,7 +393,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeInOut_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeInOut_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut(System.Single,System.Single)">FadeInOut(float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Fades the text in and out for a duration at provided speed.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -395,12 +413,14 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">fadeInOutSpeedSeconds</span></td>
-        <td></td>
+        <td><p>The speed at which the text fades in/out (in seconds, 1.0f = 1 second).  This speed is the total time of a full cycle of fade in/fade out.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -423,7 +443,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeOut_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeOut_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut(System.Single)">FadeOut(float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Fades out the floating text within specified duration.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -442,7 +463,8 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -465,7 +487,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUp_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUp_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUp(System.Single,System.Single)">MoveUp(float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Move the up/down in the y axis over duration</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -484,12 +507,14 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">yOffset</span></td>
-        <td></td>
+        <td><p>The y offset that we are going to move to.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -512,7 +537,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpArc2D_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc2D*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpArc2D_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc2D(System.Single,System.Single,System.Single)">MoveUpArc2D(float, float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Moves up arc and in an arc over duration.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -531,17 +557,20 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">arcHeight</span></td>
-        <td></td>
+        <td><p>Height of the arc.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">arcSpread</span></td>
-        <td></td>
+        <td><p>The arc spread.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -564,7 +593,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpArc3D_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc3D*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpArc3D_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpArc3D(System.Single,System.Single,System.Single)">MoveUpArc3D(float, float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Moves up arc and in an arc over duration.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -583,17 +613,20 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">arcHeight</span></td>
-        <td></td>
+        <td><p>Height of the arc.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">arcSpread</span></td>
-        <td></td>
+        <td><p>The arc spread.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -616,7 +649,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpExpand_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_MoveUpExpand_System_Single_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.MoveUpExpand(System.Single,System.Single,System.Single,System.Single)">MoveUpExpand(float, float, float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Moves up in the Y axis and expands when it gets there.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -635,22 +669,26 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">moveTo</span></td>
-        <td></td>
+        <td><p>The y offset that we are going to move to.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">moveDuration</span></td>
-        <td></td>
+        <td><p>The time it takes to do the move.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">expandTo</span></td>
-        <td></td>
+        <td><p>The value we're going to scale to.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">expandDuration</span></td>
-        <td></td>
+        <td><p>The time it takes to do the scale.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -673,7 +711,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Pop_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Pop_System_Single_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Pop(System.Single,System.Single,System.Single)">Pop(float, float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Scales up quickly and then slowly scales down</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -692,17 +731,20 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">popTo</span></td>
-        <td></td>
+        <td><p>The scale we're doing the initial pop to.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">popToDuration</span></td>
-        <td></td>
+        <td><p>The time it takes to do the initial pop movement.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">scaleDownDuration</span></td>
-        <td></td>
+        <td><p>The time it takes to scale back down to normal after the pop.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -725,7 +767,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ScaleTo_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ScaleTo_System_Single_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ScaleTo(System.Single,System.Single)">ScaleTo(float, float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Scales the floating text to the specified value.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -744,12 +787,14 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">scaleTo</span></td>
-        <td></td>
+        <td><p>The value we're going to scale to.</p>
+</td>
       </tr>
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The time it takes to do the scaling.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -772,7 +817,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Shake2D_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake2D*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Shake2D_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake2D(System.Single)">Shake2D(float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Shakes the floating text over the specified duration.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -791,7 +837,8 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -814,7 +861,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Shake3D_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake3D*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Shake3D_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Shake3D(System.Single)">Shake3D(float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Shakes the floating text over the specified duration.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -833,7 +881,8 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -856,7 +905,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ShakeX_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ShakeX(System.Single)">ShakeX(float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Shakes the floating text object left to right</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -875,7 +925,8 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -898,7 +949,8 @@
 
   <a id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Wobble_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble*"></a>
   <h4 id="BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_Wobble_System_Single_" data-uid="BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Wobble(System.Single)">Wobble(float)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Rotates the object on the z axis back and forth for the duration</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
@@ -917,7 +969,8 @@
       <tr>
         <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">float</a></td>
         <td><span class="parametername">duration</span></td>
-        <td></td>
+        <td><p>The total duration of the behavior.</p>
+</td>
       </tr>
     </tbody>
   </table>
