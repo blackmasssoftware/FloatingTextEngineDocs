@@ -70,15 +70,15 @@ references:
   commentId: T:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior
   nameWithType: ChangeFontSizeBehavior
-- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor(System.Int32)
-  name: ChangeFontSizeBehavior(int)
-  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior__ctor_System_Int32_
-  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor(System.Int32)
-  name.vb: New(Integer)
-  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.ChangeFontSizeBehavior(int)
-  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.New(Integer)
-  nameWithType: ChangeFontSizeBehavior.ChangeFontSizeBehavior(int)
-  nameWithType.vb: ChangeFontSizeBehavior.New(Integer)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor(System.Single)
+  name: ChangeFontSizeBehavior(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior__ctor_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor(System.Single)
+  name.vb: New(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.ChangeFontSizeBehavior(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.New(Single)
+  nameWithType: ChangeFontSizeBehavior.ChangeFontSizeBehavior(float)
+  nameWithType.vb: ChangeFontSizeBehavior.New(Single)
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.#ctor*
   name: ChangeFontSizeBehavior
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.ChangeFontSizeBehavior.html#BlackMassSoftware_FloatingTextEngine_Behaviors_ChangeFontSizeBehavior__ctor_
@@ -409,6 +409,21 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.Blink
   nameWithType: FloatingTextBehaviors.Blink
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize(System.Single)
+  name: ChangeFontSize(float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ChangeFontSize_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize(System.Single)
+  name.vb: ChangeFontSize(Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize(float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize(Single)
+  nameWithType: FloatingTextBehaviors.ChangeFontSize(float)
+  nameWithType.vb: FloatingTextBehaviors.ChangeFontSize(Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize*
+  name: ChangeFontSize
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ChangeFontSize_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ChangeFontSize
+  nameWithType: FloatingTextBehaviors.ChangeFontSize
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ColorGradient(UnityEngine.Color,UnityEngine.Color,System.Single)
   name: ColorGradient(Color, Color, float)
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_ColorGradient_UnityEngine_Color_UnityEngine_Color_System_Single_
@@ -439,6 +454,21 @@ references:
   commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink
   fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.ExpandShrink
   nameWithType: FloatingTextBehaviors.ExpandShrink
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut(System.Single,System.Single)
+  name: FadeInOut(float, float)
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeInOut_System_Single_System_Single_
+  commentId: M:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut(System.Single,System.Single)
+  name.vb: FadeInOut(Single, Single)
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut(float, float)
+  fullName.vb: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut(Single, Single)
+  nameWithType: FloatingTextBehaviors.FadeInOut(float, float)
+  nameWithType.vb: FloatingTextBehaviors.FadeInOut(Single, Single)
+- uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut*
+  name: FadeInOut
+  href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeInOut_
+  commentId: Overload:BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut
+  fullName: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeInOut
+  nameWithType: FloatingTextBehaviors.FadeInOut
 - uid: BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.FadeOut(System.Single)
   name: FadeOut(float)
   href: api/BlackMassSoftware.FloatingTextEngine.Behaviors.FloatingTextBehaviors.html#BlackMassSoftware_FloatingTextEngine_Behaviors_FloatingTextBehaviors_FadeOut_System_Single_
